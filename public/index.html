@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Laziestant - Myanmar Identity API</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/logo.png" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header>
+        <p class="eyebrow">Laziestant</p>
+        <h1>Myanmar Identity API</h1>
+        <div class="masthead-body">
+          <div>
+            <p class="lede">
+              Validate and parse Myanmar National Registration Cards with our
+              comprehensive API. Test NRC formats, get township details, and
+              build valid NRCs step by step.
+            </p>
+            <div class="hero-actions">
+              <a class="btn primary" href="#playground">Launch playground</a>
+            </div>
+            <div class="tags">
+              <span class="tag">Node + Express</span>
+              <span class="tag">Myanmar NRC</span>
+              <span class="tag">Validation API</span>
+            </div>
+          </div>
+          <div class="logo-wrapper" aria-hidden="true">
+            <img src="./assets/logo.png" alt="Laziestant mascot" />
+          </div>
+        </div>
+      </header>
+
+      <main class="grid">
+        <section class="card">
+          <h2>Quick Start</h2>
+          <pre><code>npm install
+npm start
+# or live reload
+npm run dev</code></pre>
+        </section>
+        <section class="card">
+          <h2>API Endpoints</h2>
+          <ul class="endpoint-list">
+            <li>
+              <span class="tag tag--green">GET</span>
+              <code>/api/nrc-types</code>
+            </li>
+            <li>
+              <span class="tag tag--green">GET</span>
+              <code>/api/states</code>
+            </li>
+            <li>
+              <span class="tag tag--green">GET</span>
+              <code>/api/townships</code>
+            </li>
+            <li>
+              <span class="tag tag--green">GET</span>
+              <code>/api/states/:stateId/townships</code>
+            </li>
+            <li>
+              <span class="tag tag--green">GET</span>
+              <code>/api/states/code/:code</code>
+            </li>
+            <li>
+              <span class="tag tag--green">GET</span>
+              <code>/api/townships/code/:code</code>
+            </li>
+            <li>
+              <span class="tag tag--green">GET</span>
+              <code>/api/states/number/:number/townships</code>
+            </li>
+            <li>
+              <span class="tag tag--blue">POST</span>
+              <code>/api/nrc/parse</code>
+            </li>
+          </ul>
+        </section>
+        <section class="card card--playground" id="playground">
+          <h2>NRC Playground</h2>
+          <p>
+            Build or test Myanmar NRC numbers. Format:
+            <code>14/MaAPa(C)123456</code>
+          </p>
+
+          <div class="playground-tabs">
+            <button class="tab-btn active" onclick="switchTab('build')">
+              Build NRC
+            </button>
+            <button class="tab-btn" onclick="switchTab('test')">
+              Test NRC
+            </button>
+          </div>
+
+          <div id="build-tab" class="tab-content active">
+            <form id="build-form">
+              <label for="state-select">State/Region</label>
+              <select id="state-select" name="state">
+                <option value="">Select State</option>
+              </select>
+
+              <label for="township-select">Township</label>
+              <select id="township-select" name="township" disabled>
+                <option value="">Select Township</option>
+              </select>
+
+              <label for="nrc-type-select">NRC Type</label>
+              <select id="nrc-type-select" name="nrcType">
+                <option value="">Select Type</option>
+              </select>
+
+              <label for="serial-input">Serial Number (6 digits)</label>
+              <div class="input-row">
+                <input
+                  id="serial-input"
+                  name="serial"
+                  type="text"
+                  placeholder="123456"
+                  maxlength="6"
+                />
+                <button type="submit">Build NRC</button>
+              </div>
+            </form>
+          </div>
+
+          <div id="test-tab" class="tab-content">
+            <form id="test-form">
+              <label for="nrc-input">NRC Number</label>
+              <div class="input-row">
+                <input
+                  id="nrc-input"
+                  name="nrc"
+                  type="text"
+                  placeholder="14/MaAPa(C)123456"
+                />
+                <button type="submit">Test NRC</button>
+              </div>
+            </form>
+          </div>
+
+          <p id="status" class="status" aria-live="polite">
+            Select a tab to begin.
+          </p>
+          <div class="result-box" id="result" hidden>
+            <pre><code id="response"></code></pre>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

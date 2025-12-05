@@ -1,0 +1,7718 @@
+{
+  "nrcTypes": [
+    {
+      "id": "td02i9-VCkVil1fS",
+      "name": {
+        "en": "N",
+        "mm": "နိုင်"
+      }
+    },
+    {
+      "id": "v9eS9ElCS9dw_vvy",
+      "name": {
+        "en": "E",
+        "mm": "ဧည့်"
+      }
+    },
+    {
+      "id": "xujB8kn-uSOQkTBs",
+      "name": {
+        "en": "P",
+        "mm": "ပြု"
+      }
+    },
+    {
+      "id": "N_xJUnlEQbrFZ7gy",
+      "name": {
+        "en": "T",
+        "mm": "သာသနာ"
+      }
+    },
+    {
+      "id": "-H6LTNZhywXRp4AC",
+      "name": {
+        "en": "Y",
+        "mm": "ယာယီ"
+      }
+    },
+    {
+      "id": "5u6NHDCpEowFaonY",
+      "name": {
+        "en": "S",
+        "mm": "စ"
+      }
+    }
+  ],
+  "nrcStates": [
+    {
+      "id": "bTuNIfLfchNvk1N_",
+      "code": "KACHIN",
+      "number": {
+        "en": "1",
+        "mm": "၁"
+      },
+      "name": {
+        "en": "KACHIN",
+        "mm": "ကချင်"
+      }
+    },
+    {
+      "id": "ta4SEQoCI0DVTK2T",
+      "code": "KAYAH",
+      "number": {
+        "en": "2",
+        "mm": "၂"
+      },
+      "name": {
+        "en": "KAYAH",
+        "mm": "ကယား"
+      }
+    },
+    {
+      "id": "1dzIVEs684iyjetc",
+      "code": "KAYIN",
+      "number": {
+        "en": "3",
+        "mm": "၃"
+      },
+      "name": {
+        "en": "KAYIN",
+        "mm": "ကရင်"
+      }
+    },
+    {
+      "id": "aVHfHbYrrdNZu9bW",
+      "code": "CHIN",
+      "number": {
+        "en": "4",
+        "mm": "၄"
+      },
+      "name": {
+        "en": "CHIN",
+        "mm": "ချင်း"
+      }
+    },
+    {
+      "id": "EbUz7oziqo6OB5pL",
+      "code": "SAGAING",
+      "number": {
+        "en": "5",
+        "mm": "၅"
+      },
+      "name": {
+        "en": "SAGAING",
+        "mm": "စစ်ကိုင်း"
+      }
+    },
+    {
+      "id": "X8rt_XwuTgAggCju",
+      "code": "TANINTHARYI",
+      "number": {
+        "en": "6",
+        "mm": "၆"
+      },
+      "name": {
+        "en": "TANINTHARYI",
+        "mm": "တနသာရီ"
+      }
+    },
+    {
+      "id": "zBMPM_jGuwbus35I",
+      "code": "BAGO",
+      "number": {
+        "en": "7",
+        "mm": "၇"
+      },
+      "name": {
+        "en": "BAGO",
+        "mm": "ပဲခူး"
+      }
+    },
+    {
+      "id": "u431U0SGuX9lkur-",
+      "code": "MAGWE",
+      "number": {
+        "en": "8",
+        "mm": "၈"
+      },
+      "name": {
+        "en": "MAGWE",
+        "mm": "မကွေး"
+      }
+    },
+    {
+      "id": "5PflwjWItczLTOof",
+      "code": "MANDALAY",
+      "number": {
+        "en": "9",
+        "mm": "၉"
+      },
+      "name": {
+        "en": "MANDALAY",
+        "mm": "မန္တလေး"
+      }
+    },
+    {
+      "id": "uQgglJ-AhohYQJNB",
+      "code": "MON",
+      "number": {
+        "en": "10",
+        "mm": "၁၀"
+      },
+      "name": {
+        "en": "MON",
+        "mm": "မွန်"
+      }
+    },
+    {
+      "id": "OfeDuBL9FsUHKi8j",
+      "code": "RAKHINE",
+      "number": {
+        "en": "11",
+        "mm": "၁၁"
+      },
+      "name": {
+        "en": "RAKHINE",
+        "mm": "ရခိုင်"
+      }
+    },
+    {
+      "id": "Zvxm3m8cAwCeDgz1",
+      "code": "YANGON",
+      "number": {
+        "en": "12",
+        "mm": "၁၂"
+      },
+      "name": {
+        "en": "YANGON",
+        "mm": "ရန်ကုန်"
+      }
+    },
+    {
+      "id": "DZ1kOrvrt-7LntG4",
+      "code": "SHAN",
+      "number": {
+        "en": "13",
+        "mm": "၁၃"
+      },
+      "name": {
+        "en": "SHAN",
+        "mm": "ရှမ်း"
+      }
+    },
+    {
+      "id": "tY793VdREy9r5xsl",
+      "code": "AYEYAWADY",
+      "number": {
+        "en": "14",
+        "mm": "၁၄"
+      },
+      "name": {
+        "en": "AYEYAWADY",
+        "mm": "ဧရာ၀တီ"
+      }
+    },
+    {
+      "id": "sH0ybsmxNuxmeOT_",
+      "code": "NAYPYITAW",
+      "number": {
+        "en": "9*",
+        "mm": "၉*"
+      },
+      "name": {
+        "en": "NAYPYITAW",
+        "mm": "နေပြည်တော်"
+      }
+    }
+  ],
+  "nrcTownships": [
+    {
+      "id": "W_7wtdGa_p8AZ4hq",
+      "code": "HOPIN",
+      "short": {
+        "en": "HAPANA",
+        "mm": "ဟပန"
+      },
+      "name": {
+        "en": "HO PIN",
+        "mm": "ဟိုပင်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01112",
+      "district": "Mohnyin"
+    },
+    {
+      "id": "cAy7xIR6FwHJHMU8",
+      "code": "KANYEIKTI",
+      "short": {
+        "en": "KAPATA",
+        "mm": "ကပတ"
+      },
+      "name": {
+        "en": "KAN BAI TI",
+        "mm": "ကမ်ပတီ"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01083",
+      "district": "Myitkyina"
+    },
+    {
+      "id": "mKK_kRmtjzFCfaSZ",
+      "code": "KHAWBUDAE",
+      "short": {
+        "en": "KHABADA",
+        "mm": "ခဘဒ"
+      },
+      "name": {
+        "en": "KHAW BU DAE",
+        "mm": "ခေါ်ဘူဒဲ"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "_XkhjBIER0i7APgS",
+      "code": "PHAKANT",
+      "short": {
+        "en": "PHAKANA",
+        "mm": "ဖကန"
+      },
+      "name": {
+        "en": "PHA KANT",
+        "mm": "ဖားကန့်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01161",
+      "district": "Mohnyin"
+    },
+    {
+      "id": "YwSNNC_QhN79Y_GM",
+      "code": "MACHANBAW",
+      "short": {
+        "en": "MAKHABA",
+        "mm": "မခဘ"
+      },
+      "name": {
+        "en": "MA CHAN BAW",
+        "mm": "မချမ်းဘော"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01041",
+      "district": "Putao"
+    },
+    {
+      "id": "-PhegWB56SRfAvEI",
+      "code": "DOTPHONEYAN",
+      "short": {
+        "en": "DAPHAYA",
+        "mm": "ဒဖယ"
+      },
+      "name": {
+        "en": "DAW PHONE YAN",
+        "mm": "ဒေါ့ဖုန်းယန်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01153",
+      "district": "Bhamaw"
+    },
+    {
+      "id": "vJ36EQIzjQ_pnWG-",
+      "code": "PANWAR",
+      "short": {
+        "en": "PAWANA",
+        "mm": "ပ၀န"
+      },
+      "name": {
+        "en": "PANWAR",
+        "mm": "ပန်ဝါ"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01072",
+      "district": "Mohnyin"
+    },
+    {
+      "id": "U5DTeH4YCTY_UpVc",
+      "code": "PANNANDIN",
+      "short": {
+        "en": "PANADA",
+        "mm": "ပနဒ"
+      },
+      "name": {
+        "en": "PAN NAN DIN",
+        "mm": "ပန်နန်းဒင်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01032",
+      "district": "Putao"
+    },
+    {
+      "id": "aMI7h3E5rsntyvz9",
+      "code": "HSADONE",
+      "short": {
+        "en": "SADANA",
+        "mm": "ဆဒန"
+      },
+      "name": {
+        "en": "SA DONE",
+        "mm": "ဆဒုံး"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01082",
+      "district": "Myitkyina"
+    },
+    {
+      "id": "6q4-EJQW_PHyAO5y",
+      "code": "BHAMO",
+      "short": {
+        "en": "BAMANA",
+        "mm": "ဗမန"
+      },
+      "name": {
+        "en": "BHA MAW",
+        "mm": "ဗန်းမော်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01131",
+      "district": "Bhamw"
+    },
+    {
+      "id": "tj8uMpSgk3jLRH7r",
+      "code": "PHA KANT",
+      "short": {
+        "en": "KAMANA",
+        "mm": "ဖကန"
+      },
+      "name": {
+        "en": "PHA KANT",
+        "mm": "ဖားကန့်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01161",
+      "district": "Mohnyin"
+    },
+    {
+      "id": "ibqQAMqgkdONCc1n",
+      "code": "MANSI",
+      "short": {
+        "en": "MASANA",
+        "mm": "မစန"
+      },
+      "name": {
+        "en": "MAN SI",
+        "mm": "မံစီ"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01141",
+      "district": "Bhamaw"
+    },
+    {
+      "id": "JUC5--8SHHor8UKG",
+      "code": "LWEGE",
+      "short": {
+        "en": "LAGANA",
+        "mm": "လဂန"
+      },
+      "name": {
+        "en": "LWE GE",
+        "mm": "လွယ်ဂေ"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01154",
+      "district": "Bhamaw"
+    },
+    {
+      "id": "2g4sxriajpkYrdUd",
+      "code": "NAUNGMOON",
+      "short": {
+        "en": "NAMANA",
+        "mm": "နမန"
+      },
+      "name": {
+        "en": "NAUNG MOON",
+        "mm": "နောင်မွန်း"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01031",
+      "district": "Putao"
+    },
+    {
+      "id": "NbbisKJ6cYqa4j5G",
+      "code": "MOMAUK",
+      "short": {
+        "en": "MAMANA",
+        "mm": "မမန"
+      },
+      "name": {
+        "en": "MOE MAUK",
+        "mm": "မိုးမောက်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01151",
+      "district": "Bhamaw"
+    },
+    {
+      "id": "2xDUSYGUabM4IoOY",
+      "code": "KAMINE",
+      "short": {
+        "en": "KAMATA",
+        "mm": "ကမန"
+      },
+      "name": {
+        "en": "KA MINE",
+        "mm": "ကာမိုင်း"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01162",
+      "district": "Mohnyin"
+    },
+    {
+      "id": "yuibWtL69cKVlr8G",
+      "code": "MOGAUNG",
+      "short": {
+        "en": "MAKATA",
+        "mm": "မကတ"
+      },
+      "name": {
+        "en": "MO GAUNG",
+        "mm": "မိုးကောင်း"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01101",
+      "district": "Mohnyin"
+    },
+    {
+      "id": "MKSBi-k1gxTibOOA",
+      "code": "MOHNYIN",
+      "short": {
+        "en": "MANYANA",
+        "mm": "မညန"
+      },
+      "name": {
+        "en": "MOH NYIN",
+        "mm": "မိုးညှင်း"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01111",
+      "district": "Mohnyin"
+    },
+    {
+      "id": "qCWSDti9uzuir6_p",
+      "code": "CHIPHWE",
+      "short": {
+        "en": "KHAPHANA",
+        "mm": "ခဖန"
+      },
+      "name": {
+        "en": "CHI PHWE",
+        "mm": "ချီဖွေ"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "J3tWOGdc_oe1vO7A",
+      "code": "HSINBO",
+      "short": {
+        "en": "SABATA",
+        "mm": "ဆဘန"
+      },
+      "name": {
+        "en": "SIN BO",
+        "mm": "ဆင်ဘို"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01191",
+      "district": "Myitkyina"
+    },
+    {
+      "id": "vg2dGu-Edn2Q99gF",
+      "code": "HSOTLAW",
+      "short": {
+        "en": "SALANA",
+        "mm": "ဆလန"
+      },
+      "name": {
+        "en": "SAW LAW",
+        "mm": "ဆော့လော်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01171",
+      "district": "Mohnyin"
+    },
+    {
+      "id": "RGWcrfF94mBI_-LC",
+      "code": "INGYANYAN",
+      "short": {
+        "en": "AHGAYA",
+        "mm": "အဂယ"
+      },
+      "name": {
+        "en": "ING YAN YAN",
+        "mm": "အင်ဂျန်းယန်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01201",
+      "district": "Myitkyina"
+    },
+    {
+      "id": "9jKUg_YrVbtzcHSB",
+      "code": "MYITKYINA",
+      "short": {
+        "en": "MAKANA",
+        "mm": "မကန"
+      },
+      "name": {
+        "en": "MYIT KYI NA",
+        "mm": "မြစ်ကြီးနား"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01011",
+      "district": "Myitkyina"
+    },
+    {
+      "id": "QzQngTsUPM6ktfmK",
+      "code": "SHINBWAYYAN",
+      "short": {
+        "en": "YABAYA",
+        "mm": "ရဘယ"
+      },
+      "name": {
+        "en": "SHIN BWAY YAN",
+        "mm": "ရှင်ဘွီယန်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "WelAEipDPFdUMs78",
+      "code": "TANAING",
+      "short": {
+        "en": "TANANA",
+        "mm": "တနန"
+      },
+      "name": {
+        "en": "TA NAING",
+        "mm": "တနိုင်း"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01091",
+      "district": "Myitkyina"
+    },
+    {
+      "id": "ES5_U1I71DhYCmpK",
+      "code": "KHAUNGLANPHOO",
+      "short": {
+        "en": "KHALAPHA",
+        "mm": "ခလဖ"
+      },
+      "name": {
+        "en": "KHAUNG LAN PHOO",
+        "mm": "ခေါင်လန်ဖူး"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "Pey_NLCfQOXz4qQG",
+      "code": "PUTAO",
+      "short": {
+        "en": "PATAAH",
+        "mm": "ပတအ"
+      },
+      "name": {
+        "en": "PU TA O",
+        "mm": "ပူတာအို"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01051",
+      "district": "Putao"
+    },
+    {
+      "id": "yZyB719It-X-JD_X",
+      "code": "SUMPRABUM",
+      "short": {
+        "en": "SAPABA",
+        "mm": "ဆပဘ"
+      },
+      "name": {
+        "en": "SUN PAYA BOM",
+        "mm": "ဆွမ်ပရာဘွမ်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01061",
+      "district": "Putao"
+    },
+    {
+      "id": "rsByqGuC2oGCHzHw",
+      "code": "SHWEGU",
+      "short": {
+        "en": "YAKANA",
+        "mm": "ရကန"
+      },
+      "name": {
+        "en": "SHWE GU",
+        "mm": "ရွှေကူ"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01121",
+      "district": "Bhamaw"
+    },
+    {
+      "id": "QjkdH9SEJlPIcceH",
+      "code": "WAINGMAW",
+      "short": {
+        "en": "WAMANA",
+        "mm": "၀မန"
+      },
+      "name": {
+        "en": "WAING MAW",
+        "mm": "ဝိုင်းမော်"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": "01081",
+      "district": "Myitkyina"
+    },
+    {
+      "id": "-8Zyq0kGJcCly-ff",
+      "code": "MYOHLAMYO",
+      "short": {
+        "en": "MALANA",
+        "mm": "မလန"
+      },
+      "name": {
+        "en": "MYOHLAMYO",
+        "mm": "မြို့လှမြို့"
+      },
+      "stateId": "bTuNIfLfchNvk1N_",
+      "stateCode": "1",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "V7KfFkHzqmuQDsT1",
+      "code": "PARSAUNG",
+      "short": {
+        "en": "PHASANA",
+        "mm": "ဖဆန"
+      },
+      "name": {
+        "en": "PAR SAUNG",
+        "mm": "ဖားဆောင်း"
+      },
+      "stateId": "ta4SEQoCI0DVTK2T",
+      "stateCode": "2",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "w-8IYr7okCPo_2GN",
+      "code": "PHRUSO",
+      "short": {
+        "en": "PHAYASA",
+        "mm": "ဖရဆ"
+      },
+      "name": {
+        "en": "PHRU SO",
+        "mm": "ဖရူးဆိုး"
+      },
+      "stateId": "ta4SEQoCI0DVTK2T",
+      "stateCode": "2",
+      "postalCode": "09031",
+      "district": "Loikaw"
+    },
+    {
+      "id": "512VwEQXJuCJ9Ey5",
+      "code": "BAWLAKHE",
+      "short": {
+        "en": "BALAKHA",
+        "mm": "ဘလခ"
+      },
+      "name": {
+        "en": "BAW LA KHE",
+        "mm": "ဘော်လခဲ"
+      },
+      "stateId": "ta4SEQoCI0DVTK2T",
+      "stateCode": "2",
+      "postalCode": "09041",
+      "district": "Bawlakhe"
+    },
+    {
+      "id": "Xz6HhRjc14_XT81P",
+      "code": "MEISI",
+      "short": {
+        "en": "MASANA",
+        "mm": "မစန"
+      },
+      "name": {
+        "en": "MEISI",
+        "mm": "မယ်စီ"
+      },
+      "stateId": "ta4SEQoCI0DVTK2T",
+      "stateCode": "2",
+      "postalCode": "09061",
+      "district": "Bawlakhe"
+    },
+    {
+      "id": "7n2jV5MTrmXYyvlE",
+      "code": "YWATHIT",
+      "short": {
+        "en": "YATHANA",
+        "mm": "ရသန"
+      },
+      "name": {
+        "en": "YWATHIT",
+        "mm": "ရွာသစ်"
+      },
+      "stateId": "ta4SEQoCI0DVTK2T",
+      "stateCode": "2",
+      "postalCode": "05274",
+      "district": "Myingyan"
+    },
+    {
+      "id": "xY6oWEw3GNrUMnO8",
+      "code": "LOIKAW",
+      "short": {
+        "en": "LAKANA",
+        "mm": "လကန"
+      },
+      "name": {
+        "en": "LOI KAW",
+        "mm": "လွိုင်ကော်"
+      },
+      "stateId": "ta4SEQoCI0DVTK2T",
+      "stateCode": "2",
+      "postalCode": "09011",
+      "district": "Loikaw"
+    },
+    {
+      "id": "5Wf0UDGwPTlrg9VY",
+      "code": "SHARTAW",
+      "short": {
+        "en": "YATANA",
+        "mm": "ရတန"
+      },
+      "name": {
+        "en": "SHAR TAW",
+        "mm": "ရှားတော်"
+      },
+      "stateId": "ta4SEQoCI0DVTK2T",
+      "stateCode": "2",
+      "postalCode": "09071",
+      "district": "Loikaw"
+    },
+    {
+      "id": "nNyti8Yxqtz53szX",
+      "code": "DIMAWSO",
+      "short": {
+        "en": "DAMASA",
+        "mm": "ဒမဆ"
+      },
+      "name": {
+        "en": "DE MOH SO",
+        "mm": "ဒီမောဆိုး"
+      },
+      "stateId": "ta4SEQoCI0DVTK2T",
+      "stateCode": "2",
+      "postalCode": "09021",
+      "district": "Loikaw"
+    },
+    {
+      "id": "mL56z6lD5fCD6DlG",
+      "code": "BAWGALI",
+      "short": {
+        "en": "BAKALA",
+        "mm": "ဘကလ"
+      },
+      "name": {
+        "en": "BAW GA LI",
+        "mm": "ဘောကလိ"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13024",
+      "district": "Hpaan"
+    },
+    {
+      "id": "sw7fLrWawA6t8NZi",
+      "code": "THANDAUNGGYI",
+      "short": {
+        "en": "THATAKA",
+        "mm": "သတက"
+      },
+      "name": {
+        "en": "THAN DAUNG GYI",
+        "mm": "သံတောင်ကြီး"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13021",
+      "district": "Hpaan"
+    },
+    {
+      "id": "iC5NX-QpfHox0VUg",
+      "code": "SUGALI",
+      "short": {
+        "en": "SAKALA",
+        "mm": "စကလ"
+      },
+      "name": {
+        "en": "SU GA LI",
+        "mm": "စုကလိ"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "136601",
+      "district": "Myawaddy"
+    },
+    {
+      "id": "53OOlTy_ttH8RAT2",
+      "code": "WALEMYAING",
+      "short": {
+        "en": "WALAMA",
+        "mm": "၀လမ"
+      },
+      "name": {
+        "en": "WALE MYAING",
+        "mm": "ဝေါလေမြိုင်"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "136701",
+      "district": "Myawaddy"
+    },
+    {
+      "id": "fA_IV-02Zg8Wd8v3",
+      "code": "BAW GA LI",
+      "short": {
+        "en": "BAGALA",
+        "mm": "ဘဂလ"
+      },
+      "name": {
+        "en": "BAW GA LI",
+        "mm": "ဘော်ဂလိ"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13024",
+      "district": "Hpaan"
+    },
+    {
+      "id": "sI0SmL5VfRgHxmou",
+      "code": "KAWKAREIT",
+      "short": {
+        "en": "KAKAYA",
+        "mm": "ကကရ"
+      },
+      "name": {
+        "en": "KAW KA REIT",
+        "mm": "ကော့ကရိတ်"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13061",
+      "district": "Kawkareit"
+    },
+    {
+      "id": "GQY_uYyyGKMZmqb9",
+      "code": "PAINGKYON",
+      "short": {
+        "en": "PAKANA",
+        "mm": "ပကန"
+      },
+      "name": {
+        "en": "PAING KYON",
+        "mm": "ပိုင်ကျုံး"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13044",
+      "district": "Hpaan"
+    },
+    {
+      "id": "yl4abNgJKsvQQ4OU",
+      "code": "HLAINEBWE",
+      "short": {
+        "en": "LABANA",
+        "mm": "လဘန"
+      },
+      "name": {
+        "en": "HLAINE BWE",
+        "mm": "လှိုင်းဘွဲ့"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13041",
+      "district": "Hpaan"
+    },
+    {
+      "id": "DzJikNhDk8BI9ti7",
+      "code": "HPA-AN",
+      "short": {
+        "en": "BAAHNA",
+        "mm": "ဘအန"
+      },
+      "name": {
+        "en": "HPA-AN",
+        "mm": "ဘားအံ"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13011",
+      "district": "Hpaan"
+    },
+    {
+      "id": "yOXyuybt0xd7c31P",
+      "code": "LATE-THO",
+      "short": {
+        "en": "LATHANA",
+        "mm": "လသန"
+      },
+      "name": {
+        "en": "LATE THO",
+        "mm": "လိပ်သို"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13023",
+      "district": "Hpaan"
+    },
+    {
+      "id": "ngHF07USecW-Qt4P",
+      "code": "SHANYWATHIT",
+      "short": {
+        "en": "YAYATHA",
+        "mm": "ရရသ"
+      },
+      "name": {
+        "en": "SHAN YWA THIT",
+        "mm": "ရှမ်းရွာသစ်"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "136501",
+      "district": "Hpaan"
+    },
+    {
+      "id": "xUfysVWy8Hkc9xz1",
+      "code": "KYAIDON",
+      "short": {
+        "en": "KADANA",
+        "mm": "ကဒန"
+      },
+      "name": {
+        "en": "KYAI DON",
+        "mm": "ကျုံဒိုး"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13072",
+      "district": "Kawkareit"
+    },
+    {
+      "id": "HEt6V2wZjeSx3s6N",
+      "code": "KYARINSEIKKYI",
+      "short": {
+        "en": "KASAKA",
+        "mm": "ကဆက"
+      },
+      "name": {
+        "en": "KYAR IN SEIK KYI",
+        "mm": "ကြာအင်းဆိပ်ကြီး"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13071",
+      "district": "Kawkareit"
+    },
+    {
+      "id": "VfSJHkvNBd0ltQM2",
+      "code": "THANTAUNGGYI",
+      "short": {
+        "en": "THATANA",
+        "mm": "သတန"
+      },
+      "name": {
+        "en": "THANTAUNGGYI",
+        "mm": "သံတောင်"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13021",
+      "district": "Hpaan"
+    },
+    {
+      "id": "LRV3Buop3b0Z69LV",
+      "code": "PHAYARTHONESU",
+      "short": {
+        "en": "BATHASA",
+        "mm": "ဘသဆ"
+      },
+      "name": {
+        "en": "PHA YAR THONE SU",
+        "mm": "ဘုရားသုံးဆူ"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13073",
+      "district": "Kawkareit"
+    },
+    {
+      "id": "XEusP7vrIsmq1uOn",
+      "code": "MYAWADY",
+      "short": {
+        "en": "MAWATA",
+        "mm": "မဝတ"
+      },
+      "name": {
+        "en": "MYA WA DY",
+        "mm": "မြဝတီ"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13051",
+      "district": "Myawaddy"
+    },
+    {
+      "id": "oMquaPZ-Uc31Hhbn",
+      "code": "KAMAMAUNG",
+      "short": {
+        "en": "KAMAMA",
+        "mm": "ကမမ"
+      },
+      "name": {
+        "en": "KA MA MAUNG",
+        "mm": "ကမမောင်"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": "13032",
+      "district": "Hpaan"
+    },
+    {
+      "id": "i5eLS_GpQOipTmx_",
+      "code": "HPAPUN-KAYIN",
+      "short": {
+        "en": "PHAPANA",
+        "mm": "ဖပန"
+      },
+      "name": {
+        "en": "HPAPUN-KAYIN",
+        "mm": "ဖာပွန်"
+      },
+      "stateId": "1dzIVEs684iyjetc",
+      "stateCode": "3",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "hzqcOq54St_ybBFO",
+      "code": "PALETWA",
+      "short": {
+        "en": "PALAWA",
+        "mm": "ပလဝ"
+      },
+      "name": {
+        "en": "PA LET WA",
+        "mm": "ပလက်ဝ"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "07071",
+      "district": "Thandway"
+    },
+    {
+      "id": "M2O6RzO6lpSPguln",
+      "code": "KYEEKHAR",
+      "short": {
+        "en": "KAKHANA",
+        "mm": "ကခန"
+      },
+      "name": {
+        "en": "KYEEKHAR",
+        "mm": "ကျီခါး"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03052",
+      "district": "Falam"
+    },
+    {
+      "id": "crDH_EsA2PLyt6bL",
+      "code": "FALAM",
+      "short": {
+        "en": "PHALANA",
+        "mm": "ဖလန"
+      },
+      "name": {
+        "en": "FA LAM",
+        "mm": "ဖလမ်း"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03031",
+      "district": "Falam"
+    },
+    {
+      "id": "LeY1Rll3hJ3x_FCc",
+      "code": "TEETAIN",
+      "short": {
+        "en": "TATANA",
+        "mm": "တတန"
+      },
+      "name": {
+        "en": "TEETAIN",
+        "mm": "တီးတိန်"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03041",
+      "district": "Falam"
+    },
+    {
+      "id": "5JuhhzYwRfjIHWt2",
+      "code": "TUNZAN",
+      "short": {
+        "en": "TAZANA",
+        "mm": "တဇန"
+      },
+      "name": {
+        "en": "TUNZAN",
+        "mm": "တွန်းဇံ"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03051",
+      "district": "Falam"
+    },
+    {
+      "id": "pDbUU8bOj-7Xf5jM",
+      "code": "MATUPI",
+      "short": {
+        "en": "MATAPA",
+        "mm": "မတပ"
+      },
+      "name": {
+        "en": "MA TU PI",
+        "mm": "မတူပီ"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03061",
+      "district": "Mindat"
+    },
+    {
+      "id": "XEg2ZWYrZF40CkBE",
+      "code": "MINDAT",
+      "short": {
+        "en": "MATANA",
+        "mm": "မတန"
+      },
+      "name": {
+        "en": "MINDAT",
+        "mm": "မင်းတပ်"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03071",
+      "district": "Mindat"
+    },
+    {
+      "id": "9D4N0ndMiSebAJgW",
+      "code": "SAMI",
+      "short": {
+        "en": "SAMANA",
+        "mm": "ဆမန"
+      },
+      "name": {
+        "en": "SAMI",
+        "mm": "ဆမီး"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "030704",
+      "district": "Mindat"
+    },
+    {
+      "id": "du3_6nkkO30kM4k3",
+      "code": "KANPETLAT",
+      "short": {
+        "en": "KAPALA",
+        "mm": "ကပလ"
+      },
+      "name": {
+        "en": "KAN PET LAT",
+        "mm": "ကန်ပက်လက်"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03081",
+      "district": "Falam"
+    },
+    {
+      "id": "7s8T3BMNfJaEyxsY",
+      "code": "RIHKHAWDAR",
+      "short": {
+        "en": "YAKHADA",
+        "mm": "ရခဒ"
+      },
+      "name": {
+        "en": "RIH KHAW DAR",
+        "mm": "ရိဒ်ခေါဒါရ်မြို့"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "7QyePxaRYn8xT47x",
+      "code": "HAKHA",
+      "short": {
+        "en": "HAKHANA",
+        "mm": "ဟခန"
+      },
+      "name": {
+        "en": "HAKHA",
+        "mm": "ဟားခါး"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03011",
+      "district": "Falam"
+    },
+    {
+      "id": "EIz_tVK6aZTDM-n3",
+      "code": "HTANTALANG",
+      "short": {
+        "en": "HTATALA",
+        "mm": "ထတလ"
+      },
+      "name": {
+        "en": "HTAN TA LANG",
+        "mm": "ထန်တလန်"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03021",
+      "district": "Falam"
+    },
+    {
+      "id": "7n1zhWPjs-CRI5Gt",
+      "code": "YAYSWAR",
+      "short": {
+        "en": "YAZANA",
+        "mm": "ရဇန"
+      },
+      "name": {
+        "en": "RE ZWA",
+        "mm": "ရေဇွာ"
+      },
+      "stateId": "aVHfHbYrrdNZu9bW",
+      "stateCode": "4",
+      "postalCode": "03062",
+      "district": "Mindat"
+    },
+    {
+      "id": "JhgQlvV0F6yjfxuj",
+      "code": "PINLEBU",
+      "short": {
+        "en": "PALABA",
+        "mm": "ပလဘ"
+      },
+      "name": {
+        "en": "PIN LE BU",
+        "mm": "ပင်လယ်ဘူး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02161",
+      "district": "Katha"
+    },
+    {
+      "id": "mjFI1i0HGAlgzjGK",
+      "code": "PANSAUNG",
+      "short": {
+        "en": "PASANA",
+        "mm": "ပဆန"
+      },
+      "name": {
+        "en": "PANSAUNG",
+        "mm": "ပန်ဆောင်း"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02012",
+      "district": "Khantee"
+    },
+    {
+      "id": "vRiPXJmJ-OfP6wAV",
+      "code": "AHYADAW",
+      "short": {
+        "en": "AHYATA",
+        "mm": "အရတ"
+      },
+      "name": {
+        "en": "AH YA DAW",
+        "mm": "အရာတော်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02291",
+      "district": "Monywa"
+    },
+    {
+      "id": "4F67ogW_s-niHErq",
+      "code": "KHAN PART",
+      "short": {
+        "en": "KHAPANA",
+        "mm": "ခပန"
+      },
+      "name": {
+        "en": "KHAN PART",
+        "mm": "ခမ်းပတ်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02076",
+      "district": "Tamu"
+    },
+    {
+      "id": "LY7MoRt2PTd9fbdi",
+      "code": "KYAUKMYAUNG-SAGAING",
+      "short": {
+        "en": "KAMANA",
+        "mm": "ကမန"
+      },
+      "name": {
+        "en": "KYAUKMYAUNG-SAGAING",
+        "mm": "ကျောက်မြောင်း"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02262",
+      "district": "Shwebo"
+    },
+    {
+      "id": "yTgN79JQOvg8XOUO",
+      "code": "MYOTHIT-SAGAING",
+      "short": {
+        "en": "MATHANA",
+        "mm": "မသန"
+      },
+      "name": {
+        "en": "MYO THIT-SAGAING",
+        "mm": "မြို့သစ်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02075",
+      "district": "Tamu"
+    },
+    {
+      "id": "g_1mgcXHtsujek_q",
+      "code": "HOMALIN",
+      "short": {
+        "en": "HAMALA",
+        "mm": "ဟမလ"
+      },
+      "name": {
+        "en": "HO MA LIN",
+        "mm": "ဟုမ္မလင်း"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02051",
+      "district": "Homalin"
+    },
+    {
+      "id": "wJBGcj1QJ8oDi_IH",
+      "code": "BANMAUK",
+      "short": {
+        "en": "BAMANA",
+        "mm": "ဗမန"
+      },
+      "name": {
+        "en": "BAN MAUK",
+        "mm": "ဗန်းမောက်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02131",
+      "district": "Katha"
+    },
+    {
+      "id": "P8WRYnOsZYAbY9fB",
+      "code": "MYAUNG",
+      "short": {
+        "en": "MAMANA",
+        "mm": "မမန"
+      },
+      "name": {
+        "en": "MYAUNG",
+        "mm": "မြောင်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02381",
+      "district": "Sagaing"
+    },
+    {
+      "id": "RQlhceAep1VXf-Pu",
+      "code": "SALINGYI",
+      "short": {
+        "en": "SALAKA",
+        "mm": "ဆလက"
+      },
+      "name": {
+        "en": "SA LIN GYI",
+        "mm": "ဆားလင်းကြီး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02321",
+      "district": "Monywa"
+    },
+    {
+      "id": "iFI9Mqtoo4OWtjW6",
+      "code": "YEU",
+      "short": {
+        "en": "YAOUNA",
+        "mm": "ရဥန"
+      },
+      "name": {
+        "en": "YE U",
+        "mm": "ရေဦး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02241",
+      "district": "Shwebo"
+    },
+    {
+      "id": "k2QCAkYMe2UQ__Fh",
+      "code": "KALE",
+      "short": {
+        "en": "KALAHTA",
+        "mm": "ကလထ"
+      },
+      "name": {
+        "en": "KA LE",
+        "mm": "ကလေး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02091",
+      "district": "Kale"
+    },
+    {
+      "id": "wsjC90s0uT5orvQw",
+      "code": "YWATHITGYI",
+      "short": {
+        "en": "YATHAKA",
+        "mm": "ရသက"
+      },
+      "name": {
+        "en": "YWA THIT GYI",
+        "mm": "ရွာသစ်ကြီး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02374",
+      "district": "Sagaing"
+    },
+    {
+      "id": "FWm8GYPBQ3ErNORF",
+      "code": "SUMMARAR",
+      "short": {
+        "en": "HSAMARA",
+        "mm": "ဆမရ"
+      },
+      "name": {
+        "en": "SUMMARAR",
+        "mm": "ဆွမ္မရာ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "026401",
+      "district": "Khantee"
+    },
+    {
+      "id": "OWv56MGVrX7XGOwS",
+      "code": "SAGAING",
+      "short": {
+        "en": "SAKANA",
+        "mm": "စကန"
+      },
+      "name": {
+        "en": "SA GAING",
+        "mm": "စစ်ကိုင်း"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02371",
+      "district": "Sagaing"
+    },
+    {
+      "id": "-JDGUjHFP0ed6v5O",
+      "code": "MAWLAIK",
+      "short": {
+        "en": "MALANA",
+        "mm": "မလန"
+      },
+      "name": {
+        "en": "MAWLAIK",
+        "mm": "မော်လိုက်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02081",
+      "district": "Mawlaik"
+    },
+    {
+      "id": "Alsd1ObVlnrxOqrJ",
+      "code": "YINMABIN",
+      "short": {
+        "en": "YAMAPA",
+        "mm": "ယမပ"
+      },
+      "name": {
+        "en": "YIN MA BIN",
+        "mm": "ယင်းမာပင်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02311",
+      "district": "Monywa"
+    },
+    {
+      "id": "IAUnGPwR027W2_wL",
+      "code": "KAWLIN",
+      "short": {
+        "en": "KALATA",
+        "mm": "ကလတ"
+      },
+      "name": {
+        "en": "KAWLIN",
+        "mm": "ကောလင်း"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02181",
+      "district": "Katha"
+    },
+    {
+      "id": "dBAb82g6xMcStYau",
+      "code": "KYUNHLA",
+      "short": {
+        "en": "KALANA",
+        "mm": "ကလန"
+      },
+      "name": {
+        "en": "KYUNHLA",
+        "mm": "ကျွန်းလှ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02201",
+      "district": "Shwebo"
+    },
+    {
+      "id": "YvNu1EdzE9wYxnFK",
+      "code": "KHAN TEE",
+      "short": {
+        "en": "KHATANA",
+        "mm": "ခတန"
+      },
+      "name": {
+        "en": "KHAN TEE",
+        "mm": "ခန္တီး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02031",
+      "district": "Khantee"
+    },
+    {
+      "id": "Pzr_A68MOEgSPA21",
+      "code": "HTANPARKHWE",
+      "short": {
+        "en": "HTAPAKHA",
+        "mm": "ထပခ"
+      },
+      "name": {
+        "en": "HTAN PAR KHWE",
+        "mm": "ထန်ပါခွေ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02022",
+      "district": "Khantee"
+    },
+    {
+      "id": "-YY8UUdcaMKyZKdH",
+      "code": "LAHEIR",
+      "short": {
+        "en": "LAHANA",
+        "mm": "လဟန"
+      },
+      "name": {
+        "en": "LAHEIR",
+        "mm": "လေဟေ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02021",
+      "district": "Khantee"
+    },
+    {
+      "id": "9g345tIdnxUmmufn",
+      "code": "LAYSHEE",
+      "short": {
+        "en": "LAYANA",
+        "mm": "လရန"
+      },
+      "name": {
+        "en": "LAY SHEE",
+        "mm": "လေရှီး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02041",
+      "district": "Khantee"
+    },
+    {
+      "id": "u9odDjYskhnqGyPo",
+      "code": "NANYUN",
+      "short": {
+        "en": "NAYANA",
+        "mm": "နယန"
+      },
+      "name": {
+        "en": "NAN YUN",
+        "mm": "နန်းယွန်း"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02011",
+      "district": "Khantee"
+    },
+    {
+      "id": "x1nbdbSilCIiTGmR",
+      "code": "KALEWA",
+      "short": {
+        "en": "KALAWA",
+        "mm": "ကလ၀"
+      },
+      "name": {
+        "en": "KALEWA",
+        "mm": "ကလေးဝ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02101",
+      "district": "Kalemyo"
+    },
+    {
+      "id": "26wLO7jJW10Qou3c",
+      "code": "MINKIN",
+      "short": {
+        "en": "MAKANA",
+        "mm": "မကန"
+      },
+      "name": {
+        "en": "MIN KIN",
+        "mm": "မင်းကင်း"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02111",
+      "district": "Kalemyo"
+    },
+    {
+      "id": "klSwT1oH_su_6f28",
+      "code": "HTIGYAING",
+      "short": {
+        "en": "HTAKHANA",
+        "mm": "ထခန"
+      },
+      "name": {
+        "en": "HTI GYAING",
+        "mm": "ထီးချိုင့်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02191",
+      "district": "Katha"
+    },
+    {
+      "id": "kJOqgpHu_Ou-nsw1",
+      "code": "INDAW",
+      "short": {
+        "en": "AHTANA",
+        "mm": "အတန"
+      },
+      "name": {
+        "en": "IN DAW-SAGAING",
+        "mm": "အင်းတော်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02141",
+      "district": "Katha"
+    },
+    {
+      "id": "fNn81PTzG4BzIZHk",
+      "code": "KATHA",
+      "short": {
+        "en": "KATHANA",
+        "mm": "ကသန"
+      },
+      "name": {
+        "en": "KA THA",
+        "mm": "ကသာ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02151",
+      "district": "Katha"
+    },
+    {
+      "id": "4uiPBMb4P45-KIKy",
+      "code": "WUNTHO",
+      "short": {
+        "en": "WATHANA",
+        "mm": "ဝသန"
+      },
+      "name": {
+        "en": "WUNTHO",
+        "mm": "ဝန်းသို"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02171",
+      "district": "Katha"
+    },
+    {
+      "id": "mzMZCuxyylpYpz2C",
+      "code": "PHAUNGPYIN",
+      "short": {
+        "en": "PHAPANA",
+        "mm": "ဖပန"
+      },
+      "name": {
+        "en": "PHAUNG PYIN",
+        "mm": "ဖောင်းပြင်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02061",
+      "district": "MawLaik"
+    },
+    {
+      "id": "BH37AcqtgC7Ug_ld",
+      "code": "CHAUNGU",
+      "short": {
+        "en": "KHAOUTA",
+        "mm": "ခဥတ"
+      },
+      "name": {
+        "en": "CHAUNG U",
+        "mm": "ချောင်းဦး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02331",
+      "district": "Monywa"
+    },
+    {
+      "id": "QgCH59oskLO2MoOY",
+      "code": "MONYWA",
+      "short": {
+        "en": "MAYANA",
+        "mm": "မရန"
+      },
+      "name": {
+        "en": "MON YWA",
+        "mm": "မုံရွာ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02301",
+      "district": "Monywa"
+    },
+    {
+      "id": "1OrTVMg1p0cszLFL",
+      "code": "DEPEYIN",
+      "short": {
+        "en": "DAPAYA",
+        "mm": "ဒပယ"
+      },
+      "name": {
+        "en": "DE PE YIN",
+        "mm": "ဒီပဲယင်း"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02251",
+      "district": "Shwebo"
+    },
+    {
+      "id": "lhNIgqUOKb56afyE",
+      "code": "KANTBALU",
+      "short": {
+        "en": "KABALA",
+        "mm": "ကဘလ"
+      },
+      "name": {
+        "en": "KANT BA LU",
+        "mm": "ကန့်ဘလူ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02211",
+      "district": "Shwebo"
+    },
+    {
+      "id": "FIwnV9Io6oxzj9ke",
+      "code": "KHINU",
+      "short": {
+        "en": "KHAOUNA",
+        "mm": "ခဥန"
+      },
+      "name": {
+        "en": "KHIN U",
+        "mm": "ခင်ဦး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02231",
+      "district": "Shwebo"
+    },
+    {
+      "id": "JPfgft1uKXujn2Qr",
+      "code": "SHWEBO",
+      "short": {
+        "en": "YABANA",
+        "mm": "ရဘန"
+      },
+      "name": {
+        "en": "SHWE BO",
+        "mm": "ရွှေဘို"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02261",
+      "district": "Shwebo"
+    },
+    {
+      "id": "iaa9zF8aiwKKV_L_",
+      "code": "TAZE",
+      "short": {
+        "en": "TASANA",
+        "mm": "တဆန"
+      },
+      "name": {
+        "en": "TAZE",
+        "mm": "တန့်ဆည်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02221",
+      "district": "Shwebo"
+    },
+    {
+      "id": "hbv3gfxKHHIByrb1",
+      "code": "WETLET",
+      "short": {
+        "en": "WALANA",
+        "mm": "ဝလန"
+      },
+      "name": {
+        "en": "WET LET",
+        "mm": "ဝက်လက်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02281",
+      "district": "Shwebo"
+    },
+    {
+      "id": "iBa2GG6GAfM1w4Tu",
+      "code": "BUDALIN",
+      "short": {
+        "en": "BATALA",
+        "mm": "ဘတလ"
+      },
+      "name": {
+        "en": "BU DA LIN",
+        "mm": "ဘုတလင်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02271",
+      "district": "Monywa"
+    },
+    {
+      "id": "9ht_wfDAhF0JEaMr",
+      "code": "TAMU",
+      "short": {
+        "en": "TAMANA",
+        "mm": "တမန"
+      },
+      "name": {
+        "en": "TAMU",
+        "mm": "တမူး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02071",
+      "district": "Tamu"
+    },
+    {
+      "id": "D2kXH8zBQlWZoNL7",
+      "code": "KANI",
+      "short": {
+        "en": "KANANA",
+        "mm": "ကနန"
+      },
+      "name": {
+        "en": "KANI",
+        "mm": "ကနီ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02121",
+      "district": "Monywa"
+    },
+    {
+      "id": "qIsjbicMvI2_jLF3",
+      "code": "PALE",
+      "short": {
+        "en": "PALANA",
+        "mm": "ပလန"
+      },
+      "name": {
+        "en": "PALE",
+        "mm": "ပုလဲ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02351",
+      "district": "Monywa"
+    },
+    {
+      "id": "TIfpoGgsqV_IlB3r",
+      "code": "MOPINE LOOT",
+      "short": {
+        "en": "MAPALA",
+        "mm": "မပလ"
+      },
+      "name": {
+        "en": "MOPINE LOOT",
+        "mm": "မိုပိုင်းလွတ်"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02142",
+      "district": "Khantee"
+    },
+    {
+      "id": "gn5XjF2LJNsL3k4V",
+      "code": "MINMU",
+      "short": {
+        "en": "MAMATA",
+        "mm": "မမတ"
+      },
+      "name": {
+        "en": "MINMU",
+        "mm": "မြင်းမူ"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "03074",
+      "district": "Mindat"
+    },
+    {
+      "id": "O4KgfLPTpN5w3WBe",
+      "code": "KHAN TEE(UPPER)",
+      "short": {
+        "en": "DAHANA",
+        "mm": "ဒဟန"
+      },
+      "name": {
+        "en": "DON HEE",
+        "mm": "ဒုံဟီး"
+      },
+      "stateId": "EbUz7oziqo6OB5pL",
+      "stateCode": "5",
+      "postalCode": "02013",
+      "district": "Khantee"
+    },
+    {
+      "id": "VUxj0QjS1YcjTo6-",
+      "code": "KYUNZU",
+      "short": {
+        "en": "KASANA",
+        "mm": "ကစန"
+      },
+      "name": {
+        "en": "KYUN ZU",
+        "mm": "ကျွန်းစု"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14101",
+      "district": "Myeik"
+    },
+    {
+      "id": "oQ8xGCkKsQ4OVIYB",
+      "code": "MYEIK",
+      "short": {
+        "en": "MAMANA",
+        "mm": "မမန"
+      },
+      "name": {
+        "en": "MYEIK",
+        "mm": "မြိတ်"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14051",
+      "district": "Myeik"
+    },
+    {
+      "id": "4rCC9V4PSd4YsAJh",
+      "code": "TANINTHARYI",
+      "short": {
+        "en": "TANATHA",
+        "mm": "တနသ"
+      },
+      "name": {
+        "en": "TA NIN THAR YI-THA",
+        "mm": "တနင်္သာရီ"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14071",
+      "district": "Myeik"
+    },
+    {
+      "id": "cCye9cIXevApXJlQ",
+      "code": "PYIGYIMANDAING",
+      "short": {
+        "en": "PAKAMA",
+        "mm": "ပကမ"
+      },
+      "name": {
+        "en": "PYI GYI MAN DAING",
+        "mm": "ပြည်ကြီးမဏ္ဍိုင်"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14083",
+      "district": "Kawthaung"
+    },
+    {
+      "id": "cS52I0lfMyvTWzMG",
+      "code": "PALAUK",
+      "short": {
+        "en": "PALATA",
+        "mm": "ပလတ"
+      },
+      "name": {
+        "en": "PA LAUK",
+        "mm": "ပလောက်"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14064",
+      "district": "Myeik"
+    },
+    {
+      "id": "HIveIJYbrI1EbOUT",
+      "code": "YEPHYU",
+      "short": {
+        "en": "YAPHANA",
+        "mm": "ရဖန"
+      },
+      "name": {
+        "en": "YE PHYU",
+        "mm": "ရေဖြူ"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14021",
+      "district": "Dewei"
+    },
+    {
+      "id": "Ryn-PPekVDXpAEDf",
+      "code": "KAWTHAUNG",
+      "short": {
+        "en": "KATHANA",
+        "mm": "ကသန"
+      },
+      "name": {
+        "en": "KAWT THAUNG",
+        "mm": "ကော့သောင်း"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14091",
+      "district": "Kawthaung"
+    },
+    {
+      "id": "fLdBC3RFRhjHX4QB",
+      "code": "TANINTHARYI-YA",
+      "short": {
+        "en": "TATHAYA",
+        "mm": "တသရ"
+      },
+      "name": {
+        "en": "TA NIN THAR YI",
+        "mm": "တနင်္သာရီ"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14071",
+      "district": "Myeik"
+    },
+    {
+      "id": "__xkpK1HophRS7cF",
+      "code": "NGAYOKEKAUNG-TANINTHARYI",
+      "short": {
+        "en": "NGAYAKA",
+        "mm": "ငရက"
+      },
+      "name": {
+        "en": "NGA YOKE KAUNG - TA NIN THAR YI",
+        "mm": "ငရုတ်ကောင်း - တနင်္သာရီ"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "aawkfxJd8P2EXcpM",
+      "code": "KARATHURI",
+      "short": {
+        "en": "KAYAYA",
+        "mm": "ကရရ"
+      },
+      "name": {
+        "en": "KA RA THU RI",
+        "mm": "ကရသုရိ"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14082",
+      "district": "Kawthaung"
+    },
+    {
+      "id": "Lxgvg1lRviXj2hts",
+      "code": "LAUNGLONE",
+      "short": {
+        "en": "LALANA",
+        "mm": "လလန"
+      },
+      "name": {
+        "en": "LAUNG LONE",
+        "mm": "လောင်းလုံ"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14042",
+      "district": "Dewei"
+    },
+    {
+      "id": "VE1dfr8VmbWC7bBD",
+      "code": "PALAW",
+      "short": {
+        "en": "PALANA",
+        "mm": "ပလန"
+      },
+      "name": {
+        "en": "PALAW",
+        "mm": "ပုလော"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14062",
+      "district": "Myeik"
+    },
+    {
+      "id": "G82DW13qbQyudW-1",
+      "code": "KHAMOUKGYI",
+      "short": {
+        "en": "KHAMAKA",
+        "mm": "ခမက"
+      },
+      "name": {
+        "en": "KHA MOUK GYI",
+        "mm": "ခမောက်ကြီး"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14093",
+      "district": "Kawthaung"
+    },
+    {
+      "id": "tp6aiGIW6qVI57Gx",
+      "code": "DAWEI",
+      "short": {
+        "en": "HTAWANA",
+        "mm": "ထဝန"
+      },
+      "name": {
+        "en": "DA WEI",
+        "mm": "ထားဝယ်"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14011",
+      "district": "Dawei"
+    },
+    {
+      "id": "5shTcXaLOO7usWtn",
+      "code": "KALEINAUNG",
+      "short": {
+        "en": "KALAAH",
+        "mm": "ကလအ"
+      },
+      "name": {
+        "en": "KA LEIN AUNG",
+        "mm": "ကလိန်အောင်"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14023",
+      "district": "Dawei"
+    },
+    {
+      "id": "CyEy8bq2KXD6WXsa",
+      "code": "MYITTA",
+      "short": {
+        "en": "MATANA",
+        "mm": "မတန"
+      },
+      "name": {
+        "en": "MYIT TA",
+        "mm": "မေတာ"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14015",
+      "district": "Dawei"
+    },
+    {
+      "id": "j6sVngCzR4IPqRB6",
+      "code": "THAYETCHAUNG",
+      "short": {
+        "en": "THAYAKHA",
+        "mm": "သရခ"
+      },
+      "name": {
+        "en": "THA YET CHAUNG",
+        "mm": "သရက်ချောင်း"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14031",
+      "district": "Dewei"
+    },
+    {
+      "id": "sSxbuoBNIUhYJbNk",
+      "code": "BOKEPYIN",
+      "short": {
+        "en": "BAPANA",
+        "mm": "ဘပန"
+      },
+      "name": {
+        "en": "BOKE PYIN",
+        "mm": "ဘုတ်ပြင်း"
+      },
+      "stateId": "X8rt_XwuTgAggCju",
+      "stateCode": "6",
+      "postalCode": "14081",
+      "district": "Kawthaung"
+    },
+    {
+      "id": "UpGyPd6L25VEdPd3",
+      "code": "SHWEKYIN",
+      "short": {
+        "en": "YAKANA",
+        "mm": "ရကန"
+      },
+      "name": {
+        "en": "SHWE KYIN",
+        "mm": "ရွှေကျင်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08051",
+      "district": "Bago"
+    },
+    {
+      "id": "ZT984n-G_XLezmO6",
+      "code": "KAWA",
+      "short": {
+        "en": "KAWANA",
+        "mm": "ကဝန"
+      },
+      "name": {
+        "en": "KA WA",
+        "mm": "ကဝ"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08091",
+      "district": "Bago"
+    },
+    {
+      "id": "C_dmO3JjxIJVZdNj",
+      "code": "PAUNDE",
+      "short": {
+        "en": "PATATA",
+        "mm": "ပတတ"
+      },
+      "name": {
+        "en": "PAUN DE",
+        "mm": "ပေါင်းတည်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08201",
+      "district": "Pyay"
+    },
+    {
+      "id": "TlduR30XkXtXbhfo",
+      "code": "KYAUKGYI",
+      "short": {
+        "en": "KAKANA",
+        "mm": "ကကန"
+      },
+      "name": {
+        "en": "KYAUK GYI",
+        "mm": "ကျောက်ကြီး"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "080401",
+      "district": "Thayet"
+    },
+    {
+      "id": "-VzMq7MK3J6reN4x",
+      "code": "MINHLA-THAYAWADY",
+      "short": {
+        "en": "MALANA",
+        "mm": "မလန"
+      },
+      "name": {
+        "en": "MIN HLA",
+        "mm": "မင်းလှ"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "04071",
+      "district": "Thayet"
+    },
+    {
+      "id": "c7eSHFdzmh_ZIvf5",
+      "code": "DEIKU",
+      "short": {
+        "en": "DAOUNA",
+        "mm": "ဒဥန"
+      },
+      "name": {
+        "en": "DEIK U",
+        "mm": "ဒိုက်ဦး"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08061",
+      "district": "Bago"
+    },
+    {
+      "id": "QGuKr1seDZSSpu-U",
+      "code": "KYAUKTAGA",
+      "short": {
+        "en": "KATAKHA",
+        "mm": "ကတခ"
+      },
+      "name": {
+        "en": "KYAUK TA GA",
+        "mm": "ကျောက်တံခါး"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08021",
+      "district": "Bago"
+    },
+    {
+      "id": "rhBMvVSYNlHhHT8j",
+      "code": "THANATPIN",
+      "short": {
+        "en": "THANAPA",
+        "mm": "သနပ"
+      },
+      "name": {
+        "en": "THANATPIN",
+        "mm": "သနပ်ပင်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "080801",
+      "district": "Bago"
+    },
+    {
+      "id": "p1pZ6RWsTbPyQibO",
+      "code": "WAW",
+      "short": {
+        "en": "WAMANA",
+        "mm": "ဝမန"
+      },
+      "name": {
+        "en": "WAW",
+        "mm": "ဝေါ"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08071",
+      "district": "Bago"
+    },
+    {
+      "id": "iBIC-ue3p-hAAjDT",
+      "code": "PADAUNG",
+      "short": {
+        "en": "PATANA",
+        "mm": "ပတန"
+      },
+      "name": {
+        "en": "PA DAUNG",
+        "mm": "ပန်းတောင်း"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08171",
+      "district": "Pyay"
+    },
+    {
+      "id": "uHs8NPhl809Nlgr9",
+      "code": "SHWEDAUNG",
+      "short": {
+        "en": "YATANA",
+        "mm": "ရတန"
+      },
+      "name": {
+        "en": "SHWE DAUNG",
+        "mm": "ရွှေတောင်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08181",
+      "district": "Pyay"
+    },
+    {
+      "id": "-CbHiLiNdbyIoDWi",
+      "code": "GYOBINGAUK",
+      "short": {
+        "en": "KAPAKA",
+        "mm": "ကပက"
+      },
+      "name": {
+        "en": "GYO BIN GAUK",
+        "mm": "ကြို့ပင်ကောက်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08231",
+      "district": "Tharrawaddy"
+    },
+    {
+      "id": "-27Lh6FIUe_iMun5",
+      "code": "MONYO",
+      "short": {
+        "en": "MANYANA",
+        "mm": "မညန"
+      },
+      "name": {
+        "en": "MONYO",
+        "mm": "မိုးညို"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08241",
+      "district": "Tharrawaddy"
+    },
+    {
+      "id": "M3kMDS86cRDzLn1U",
+      "code": "ZEEGONE",
+      "short": {
+        "en": "ZAKANA",
+        "mm": "ဇကန"
+      },
+      "name": {
+        "en": "ZEEGONE",
+        "mm": "ဇီးကုန်း"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08221",
+      "district": "Tharrawaddy"
+    },
+    {
+      "id": "PrLQtsR_v5CDj1Dr",
+      "code": "HTANTABIN",
+      "short": {
+        "en": "HTATAPA",
+        "mm": "ထတပ"
+      },
+      "name": {
+        "en": "HTAN TA BIN",
+        "mm": "ထန်းတပင်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "02214",
+      "district": "Shwebo"
+    },
+    {
+      "id": "821GRLWIQ9Aa6657",
+      "code": "PHYU",
+      "short": {
+        "en": "PHAMANA",
+        "mm": "ဖမန"
+      },
+      "name": {
+        "en": "PHHYU",
+        "mm": "ဖြူး"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": null,
+      "district": "Taungoo"
+    },
+    {
+      "id": "_y6hCtHBCIuNaAcU",
+      "code": "TAUNGOO",
+      "short": {
+        "en": "TANGANA",
+        "mm": "တငန"
+      },
+      "name": {
+        "en": "TAUNGOO",
+        "mm": "တောင်ငူ"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08101",
+      "district": "Taungoo"
+    },
+    {
+      "id": "d7g19L0K4Z7iDKr7",
+      "code": "YAEDASHE",
+      "short": {
+        "en": "YATAYA",
+        "mm": "ရတရ"
+      },
+      "name": {
+        "en": "YAE DA SHE",
+        "mm": "ရေတာရှည်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08111",
+      "district": "Taungoo"
+    },
+    {
+      "id": "YYL-AhnQfi-W-c5j",
+      "code": "LETPADAN",
+      "short": {
+        "en": "LAPATA",
+        "mm": "လပတ"
+      },
+      "name": {
+        "en": "LET PA DAN",
+        "mm": "လက်ပံတန်း"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08271",
+      "district": "Tharrawaddy"
+    },
+    {
+      "id": "ehJklS2qpFDjXA3w",
+      "code": "OAKPHO",
+      "short": {
+        "en": "AHPHANA",
+        "mm": "အဖန"
+      },
+      "name": {
+        "en": "OAK PHO",
+        "mm": "အုတ်ဖို"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08251",
+      "district": "Tharrawaddy"
+    },
+    {
+      "id": "Ci_V0duRSfL9k0e2",
+      "code": "THEGON",
+      "short": {
+        "en": "THAKANA",
+        "mm": "သကန"
+      },
+      "name": {
+        "en": "THE GON",
+        "mm": "သဲကုန်း"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08191",
+      "district": "Pyay"
+    },
+    {
+      "id": "O1gjsyITz72gvxcm",
+      "code": "PAUKKHAUNG",
+      "short": {
+        "en": "PAKHATA",
+        "mm": "ပခတ"
+      },
+      "name": {
+        "en": "PAUKKHAUNG",
+        "mm": "ပေါက်ခေါင်း"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08161",
+      "district": "Pyay"
+    },
+    {
+      "id": "SUCOHZqGZDJkUfOI",
+      "code": "OAKPHYAT",
+      "short": {
+        "en": "AHPHANA",
+        "mm": "အဖန"
+      },
+      "name": {
+        "en": "OAK PHYAT",
+        "mm": "အုတ်ဖျက်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": null,
+      "district": "Taungoo"
+    },
+    {
+      "id": "sHvIn8plwy-U9nnB",
+      "code": "THONEZE",
+      "short": {
+        "en": "THASANA",
+        "mm": "သဆန"
+      },
+      "name": {
+        "en": "THON SAE",
+        "mm": "သုံးဆယ်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08282",
+      "district": "Tharrawaddy"
+    },
+    {
+      "id": "ZHSzwEabWO-B2dw_",
+      "code": "KAYTUMADI",
+      "short": {
+        "en": "KATATA",
+        "mm": "ကတတ"
+      },
+      "name": {
+        "en": "KAY TU MA DI",
+        "mm": "ကေတုမတီ"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08104",
+      "district": "Taungoo"
+    },
+    {
+      "id": "7CaefjA3UboaXAT5",
+      "code": "KUAUKKONE",
+      "short": {
+        "en": "KAKANA",
+        "mm": "ကကန"
+      },
+      "name": {
+        "en": "KUAUK KONE",
+        "mm": "​ကျောက်ကုန်း"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "04QudjFQ5UBP4tGm",
+      "code": "BAGO",
+      "short": {
+        "en": "PAKHANA",
+        "mm": "ပခန"
+      },
+      "name": {
+        "en": "BAGO",
+        "mm": "ပဲခူး"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08011",
+      "district": "Bago"
+    },
+    {
+      "id": "onEU1_dRNHW4DyTq",
+      "code": "PYAY",
+      "short": {
+        "en": "PAMANA",
+        "mm": "ပမန"
+      },
+      "name": {
+        "en": "PYAY",
+        "mm": "ပြည်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08151",
+      "district": "Pyay"
+    },
+    {
+      "id": "OAVACVgdGLOkVHou",
+      "code": "THARRAWADDY",
+      "short": {
+        "en": "THAWATA",
+        "mm": "သဝတ"
+      },
+      "name": {
+        "en": "THAR RA WA DDY",
+        "mm": "သာယာဝတီ"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08281",
+      "district": "Tharrawaddy"
+    },
+    {
+      "id": "PsHaEttTtrWpvdO5",
+      "code": "NYAUNGLAYBIN",
+      "short": {
+        "en": "NYALAPA",
+        "mm": "ညလပ"
+      },
+      "name": {
+        "en": "NYAUNG LAY BIN",
+        "mm": "ညောင်လေးပင်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08031",
+      "district": "Bago"
+    },
+    {
+      "id": "4_X2AfTojfceN7Kz",
+      "code": "OATWIN",
+      "short": {
+        "en": "AHTANA",
+        "mm": "အတန"
+      },
+      "name": {
+        "en": "OA TWIN",
+        "mm": "အုတ်တွင်း"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08121",
+      "district": "Taungoo"
+    },
+    {
+      "id": "NWb7HcLUSYMVB4xx",
+      "code": "NATTALIN",
+      "short": {
+        "en": "NATALA",
+        "mm": "နတလ"
+      },
+      "name": {
+        "en": "NAT TA LIN",
+        "mm": "နတ်တလင်း"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08211",
+      "district": "Tharrawaddy"
+    },
+    {
+      "id": "i_7MrNemGTYJSCP8",
+      "code": "PYUNTANSAR",
+      "short": {
+        "en": "PATASA",
+        "mm": "ပတဆ"
+      },
+      "name": {
+        "en": "PYUN TAN SAR",
+        "mm": "ပြွန်တန်ဆာ"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08034",
+      "district": "Bago"
+    },
+    {
+      "id": "RhlPpoepmQgdWjOe",
+      "code": "MADAUNK",
+      "short": {
+        "en": "MADANA",
+        "mm": "မဒန"
+      },
+      "name": {
+        "en": "MA DAUNK",
+        "mm": "မဒေါက်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08033",
+      "district": "Bago"
+    },
+    {
+      "id": "IYmG827ZQpD1tb8K",
+      "code": "PENWEGONE",
+      "short": {
+        "en": "PANAKA",
+        "mm": "ပနက"
+      },
+      "name": {
+        "en": "PE NWE GONE",
+        "mm": "ပဲနွယ်ကုန်း"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08023",
+      "district": "Bago"
+    },
+    {
+      "id": "UK3d5u7Ty8FTgCHR",
+      "code": "PAUNGDALE",
+      "short": {
+        "en": "PATALA",
+        "mm": "ပတလ"
+      },
+      "name": {
+        "en": "PAUNG DA LE",
+        "mm": "ပေါင်းတလည်"
+      },
+      "stateId": "zBMPM_jGuwbus35I",
+      "stateCode": "7",
+      "postalCode": "08154",
+      "district": "Pyay"
+    },
+    {
+      "id": "o0z5cVWPkfga0pyE",
+      "code": "MINBU",
+      "short": {
+        "en": "MABANA",
+        "mm": "မဘန"
+      },
+      "name": {
+        "en": "MIN BU",
+        "mm": "မင်းဘူး"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04021",
+      "district": "Minbu"
+    },
+    {
+      "id": "-nNgh5Szy3N2LskT",
+      "code": "NGAPHAE",
+      "short": {
+        "en": "NGAPHANA",
+        "mm": "ငဖန"
+      },
+      "name": {
+        "en": "NGA PHAE",
+        "mm": "ငဖဲ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04061",
+      "district": "Minbu"
+    },
+    {
+      "id": "v0ZputQ6bhO_vhJd",
+      "code": "PWINTPHYU",
+      "short": {
+        "en": "PAPHANA",
+        "mm": "ပဖန"
+      },
+      "name": {
+        "en": "PWINT PHYU",
+        "mm": "ပွင့်ဖြူ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04031",
+      "district": "Minbu"
+    },
+    {
+      "id": "Qd-lgt1oEldKNE3f",
+      "code": "SAGU",
+      "short": {
+        "en": "SAKANA",
+        "mm": "စကန"
+      },
+      "name": {
+        "en": "SA KU",
+        "mm": "စကု"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04023",
+      "district": "Minbu"
+    },
+    {
+      "id": "Sn67HyZFmmxqFSDL",
+      "code": "SALIN",
+      "short": {
+        "en": "SALANA",
+        "mm": "စလန"
+      },
+      "name": {
+        "en": "SA LIN",
+        "mm": "စလင်း"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04042",
+      "district": "Minbu"
+    },
+    {
+      "id": "yUNhDY1bl1rX7fvG",
+      "code": "MYAING",
+      "short": {
+        "en": "MAMANA",
+        "mm": "မမန"
+      },
+      "name": {
+        "en": "MYAING",
+        "mm": "မြိုင်"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04191",
+      "district": "Minbu"
+    },
+    {
+      "id": "5M0UcVWxY26ER3nY",
+      "code": "PAUK",
+      "short": {
+        "en": "PAMANA",
+        "mm": "ပမန"
+      },
+      "name": {
+        "en": "PAUK",
+        "mm": "ပေါက်"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04231",
+      "district": "Pakokku"
+    },
+    {
+      "id": "1PPglEpG0LyA9wOV",
+      "code": "YAYSAKYO",
+      "short": {
+        "en": "YASAKA",
+        "mm": "ရစက"
+      },
+      "name": {
+        "en": "YAY SA KYO",
+        "mm": "ရေစကြို"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "u3XHrGVuLkP932L1",
+      "code": "KANMA",
+      "short": {
+        "en": "KAMANA",
+        "mm": "ကမန"
+      },
+      "name": {
+        "en": "KAM MA",
+        "mm": "ကံမ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04111",
+      "district": "Thayet"
+    },
+    {
+      "id": "HpbZ9_MMh6YUbCI_",
+      "code": "MINHLA-MAGWE",
+      "short": {
+        "en": "MALANA",
+        "mm": "မလန"
+      },
+      "name": {
+        "en": "MIN HLA-MAGWE",
+        "mm": "မင်းလှ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04071",
+      "district": "Thayet"
+    },
+    {
+      "id": "qy7AtOaGjDKGprio",
+      "code": "THAYET",
+      "short": {
+        "en": "THAYANA",
+        "mm": "သရန"
+      },
+      "name": {
+        "en": "THA YET",
+        "mm": "သရက်"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04091",
+      "district": "Thayet"
+    },
+    {
+      "id": "fUxJOjaAiiy0356D",
+      "code": "SINPAUNGWAE",
+      "short": {
+        "en": "SAPAWA",
+        "mm": "ဆပ၀"
+      },
+      "name": {
+        "en": "SIN PAUNG WAE",
+        "mm": "ဆင်ပေါင်ဝဲ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04081",
+      "district": "Thayet"
+    },
+    {
+      "id": "_c7XH023HJPZvcJh",
+      "code": "HSAW",
+      "short": {
+        "en": "SAMANA",
+        "mm": "ဆမန"
+      },
+      "name": {
+        "en": "HSAW",
+        "mm": "ဆော"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "Eh1eTvWgbavFg45U",
+      "code": "MINDONN",
+      "short": {
+        "en": "MATANA",
+        "mm": "မတန"
+      },
+      "name": {
+        "en": "MIN TONE",
+        "mm": "မင်းတုန်း"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "080401",
+      "district": "Thayet"
+    },
+    {
+      "id": "FNrPp_Z5o4gNZklS",
+      "code": "TAUNGDWINGYI",
+      "short": {
+        "en": "TATAKA",
+        "mm": "တတက"
+      },
+      "name": {
+        "en": "TAUNG DWIN GYI",
+        "mm": "တောင်တွင်းကြီး"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04141",
+      "district": "Magwe"
+    },
+    {
+      "id": "DK9mE0XT7ZYgvTQM",
+      "code": "HTILINN",
+      "short": {
+        "en": "HTALANA",
+        "mm": "ထလန"
+      },
+      "name": {
+        "en": "HTI LIN",
+        "mm": "ထီးလင်း"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": null,
+      "district": "Gantgaw"
+    },
+    {
+      "id": "w86KZCx2ugIvayhp",
+      "code": "CHAUK",
+      "short": {
+        "en": "KHAMANA",
+        "mm": "ခမန"
+      },
+      "name": {
+        "en": "CHAUK",
+        "mm": "ချောက်"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04171",
+      "district": "Magwe"
+    },
+    {
+      "id": "CVkO0hqyM-0pgWDn",
+      "code": "AUNGLAN",
+      "short": {
+        "en": "MAHTANA",
+        "mm": "မထန"
+      },
+      "name": {
+        "en": "MYAY HTAE",
+        "mm": "မြေထဲ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04151",
+      "district": "Thayet"
+    },
+    {
+      "id": "3NHkosvrHv8S-1ha",
+      "code": "AUNGLAN",
+      "short": {
+        "en": "AHLANA",
+        "mm": "အလန"
+      },
+      "name": {
+        "en": "AUNG LAN",
+        "mm": "အောင်လံ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04151",
+      "district": "Thayet"
+    },
+    {
+      "id": "qeA9kgXZQYVd04SF",
+      "code": "MYOTHIT-MAGWE",
+      "short": {
+        "en": "MATHANA",
+        "mm": "မသန"
+      },
+      "name": {
+        "en": "MYO THIT-MAGWE",
+        "mm": "မြို့သစ်"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04131",
+      "district": "Magwe"
+    },
+    {
+      "id": "u7FQzukIDn1kf2zl",
+      "code": "PAKOKKU",
+      "short": {
+        "en": "PAKHAKA",
+        "mm": "ပခက"
+      },
+      "name": {
+        "en": "PA KOK KU",
+        "mm": "ပခုက္ကူ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04201",
+      "district": "Pakokku"
+    },
+    {
+      "id": "Ti55O51SEo0BvjPc",
+      "code": "MAGWE",
+      "short": {
+        "en": "MAKANA",
+        "mm": "မကန"
+      },
+      "name": {
+        "en": "MA GWAY",
+        "mm": "မကွေး"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04011",
+      "district": "Magwe"
+    },
+    {
+      "id": "tsFnZj8yaujKVydq",
+      "code": "SEIKPHYU",
+      "short": {
+        "en": "SAPHANA",
+        "mm": "ဆဖန"
+      },
+      "name": {
+        "en": "SEIK PHYU",
+        "mm": "ဆိပ်ဖြူ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04251",
+      "district": "Pakokku"
+    },
+    {
+      "id": "FkVx4E-5dJ8FqTag",
+      "code": "SAYTOTTARA",
+      "short": {
+        "en": "SATAYA",
+        "mm": "စတရ"
+      },
+      "name": {
+        "en": "SAY TOT TA RA",
+        "mm": "စေတုတ္တရာ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "CYhfYyTEGDaD7YA7",
+      "code": "YAYNANCHAUNG",
+      "short": {
+        "en": "YANAKHA",
+        "mm": "ရနခ"
+      },
+      "name": {
+        "en": "YAY NAN CHAUNG",
+        "mm": "ရေနံချောင်း"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "6X-2nBE2egyCnITm",
+      "code": "GANGAW",
+      "short": {
+        "en": "GAGANA",
+        "mm": "ဂဂန"
+      },
+      "name": {
+        "en": "GAN GAW",
+        "mm": "ဂန့်ဂေါ"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04211",
+      "district": "Gantgaw"
+    },
+    {
+      "id": "GqjXbKk_8a3dpAJr",
+      "code": "KYAUKHTU",
+      "short": {
+        "en": "KAHTANA",
+        "mm": "ကထန"
+      },
+      "name": {
+        "en": "KYAUK HTU",
+        "mm": "ကျောက်ထု"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04242",
+      "district": "Gantgaw"
+    },
+    {
+      "id": "baal5VnZ-P1vZRQ8",
+      "code": "YAW",
+      "short": {
+        "en": "YAMANA",
+        "mm": "ယမန"
+      },
+      "name": {
+        "en": "YAW",
+        "mm": "ယော"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "91IeSpgF5_2X6v2N",
+      "code": "NATMAUK",
+      "short": {
+        "en": "NAMANA",
+        "mm": "နမန"
+      },
+      "name": {
+        "en": "NAT MAUK",
+        "mm": "နတ်မောက်"
+      },
+      "stateId": "u431U0SGuX9lkur-",
+      "stateCode": "8",
+      "postalCode": "04121",
+      "district": "Magwe"
+    },
+    {
+      "id": "Yy-x1u7JXiC0mRLN",
+      "code": "KYAUKSE",
+      "short": {
+        "en": "KASANA",
+        "mm": "ကဆန"
+      },
+      "name": {
+        "en": "KYAUK SE",
+        "mm": "ကျောက်ဆည်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05151",
+      "district": "Kyaukse"
+    },
+    {
+      "id": "s24xhSz9-fi9r8i5",
+      "code": "MYITTHAR",
+      "short": {
+        "en": "MATHANA",
+        "mm": "မသန"
+      },
+      "name": {
+        "en": "MYIT THAR",
+        "mm": "မြစ်သား"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05161",
+      "district": "Kyaukse"
+    },
+    {
+      "id": "wdr4b2Cn4LEmA6pU",
+      "code": "AUNGMYETHARZAN",
+      "short": {
+        "en": "AHMAZA",
+        "mm": "အမဇ"
+      },
+      "name": {
+        "en": "AUNG MYE THAR ZAN",
+        "mm": "အောင်မြေသာဇံ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05011",
+      "district": "Mandalay"
+    },
+    {
+      "id": "dJZW945YDHGv3-eQ",
+      "code": "CHANMYATHARZI",
+      "short": {
+        "en": "KHAMASA",
+        "mm": "ခမစ"
+      },
+      "name": {
+        "en": "CHAN MYA THAR ZI",
+        "mm": "ချမ်းမြေ့သာစည်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05041",
+      "district": "Mandalay"
+    },
+    {
+      "id": "9QdAyBnMDEqdW1zz",
+      "code": "MAHAAUNGMYE",
+      "short": {
+        "en": "MAHAMA",
+        "mm": "မဟမ"
+      },
+      "name": {
+        "en": "MA HA AUNG MYE",
+        "mm": "မဟာအောင်မြေ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05031",
+      "district": "Mandalay"
+    },
+    {
+      "id": "DKdjQ8olqz-vpfiy",
+      "code": "ZABUTHIRI",
+      "short": {
+        "en": "ZABATHA",
+        "mm": "ဇဗသ"
+      },
+      "name": {
+        "en": "ZA BU THIRI",
+        "mm": "ဇမ္ဗူသီရိ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "ynThlvLeMFOR0N8I",
+      "code": "KYAUKPADAUNG",
+      "short": {
+        "en": "KAPATA",
+        "mm": "ကပတ"
+      },
+      "name": {
+        "en": "KYAUK PA DAUNG",
+        "mm": "ကျောက်ပန်းတောင်း"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05241",
+      "district": "Myingyan"
+    },
+    {
+      "id": "_8EmrD5ns9rLwYPm",
+      "code": "PATHEINGYI",
+      "short": {
+        "en": "PATHAKA",
+        "mm": "ပသက"
+      },
+      "name": {
+        "en": "PA THEIN GYI",
+        "mm": "ပုသိမ်ကြီး"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05071",
+      "district": "Mandalay"
+    },
+    {
+      "id": "ZpnOLsYWQmCb-RHM",
+      "code": "TADAU",
+      "short": {
+        "en": "TATAOU",
+        "mm": "တတဥ"
+      },
+      "name": {
+        "en": "TADAU",
+        "mm": "တံတားဦး"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05131",
+      "district": "Kyaukse"
+    },
+    {
+      "id": "447CkZG492J8TwnW",
+      "code": "SINGAING",
+      "short": {
+        "en": "SAKATA",
+        "mm": "စကတ"
+      },
+      "name": {
+        "en": "SIN GAING",
+        "mm": "စဉ့်ကိုင်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "zCAl687RBvKXg9vF",
+      "code": "SINKU",
+      "short": {
+        "en": "SAKANA",
+        "mm": "စကန"
+      },
+      "name": {
+        "en": "SIN KU",
+        "mm": "စဉ့်ကူး"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "gN77WiQ859GFd4r0",
+      "code": "OTTARATHIRI",
+      "short": {
+        "en": "AUTATHA",
+        "mm": "ဥတသ"
+      },
+      "name": {
+        "en": "OT TA RA THIRI",
+        "mm": "ဥတ္တရသီရိ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "xn3kFcvdyd3mh4Gq",
+      "code": "POBBATHIRI",
+      "short": {
+        "en": "PABATHA",
+        "mm": "ပဗသ"
+      },
+      "name": {
+        "en": "POB BA THIRI",
+        "mm": "ပုဗ္ဗသီရိ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "I7D-R0RwijzMAyvQ",
+      "code": "KUME",
+      "short": {
+        "en": "KAMANA",
+        "mm": "ကမန"
+      },
+      "name": {
+        "en": "KU ME",
+        "mm": "ကူမဲ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05162",
+      "district": "Kyaukse"
+    },
+    {
+      "id": "WzRc32_yKbZ5S0F3",
+      "code": "MAYMYO",
+      "short": {
+        "en": "MAMANA",
+        "mm": "မမန"
+      },
+      "name": {
+        "en": "MAY MYO",
+        "mm": "မေမြို့"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "rq4exxAlROXKaNgl",
+      "code": "MANNSHAEMYAUK",
+      "short": {
+        "en": "MAYAMA",
+        "mm": "မရမ"
+      },
+      "name": {
+        "en": "MANN SHAE MYAUK",
+        "mm": "မန်းရှေ့မြောက်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "VMEyAxuTkt1-qyEV",
+      "code": "AMARAPURA",
+      "short": {
+        "en": "AHMAYA",
+        "mm": "အမရ"
+      },
+      "name": {
+        "en": "A MA RA PU RA",
+        "mm": "အမရပူရ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05061",
+      "district": "Mandalay"
+    },
+    {
+      "id": "VuCC5mC1Enm9NP3m",
+      "code": "NATOGYI",
+      "short": {
+        "en": "NAHTAKA",
+        "mm": "နထက"
+      },
+      "name": {
+        "en": "NA TO GYI",
+        "mm": "နွားထိုးကြီး"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "BhYX-gtw-pd8GucA",
+      "code": "MANNNAUKMYAUK",
+      "short": {
+        "en": "MANAMA",
+        "mm": "မနမ"
+      },
+      "name": {
+        "en": "MANN NAUK MYAUK",
+        "mm": "မန်းနောက်မြောက်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "dJucp8ldRbUocA0Q",
+      "code": "MANNNAUKTAUNG",
+      "short": {
+        "en": "MANATA",
+        "mm": "မနတ"
+      },
+      "name": {
+        "en": "MANN NAUK TAUNG",
+        "mm": "မန်းနောက်တောင်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "SNJTEZYEYYdSwdje",
+      "code": "MANNSHAEAUNG",
+      "short": {
+        "en": "MAYATA",
+        "mm": "မရတ"
+      },
+      "name": {
+        "en": "MANN SHAE TAUNG",
+        "mm": "မန်းရှေ့တောင်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "ctjxT1TVs-1j13z9",
+      "code": "TATKON",
+      "short": {
+        "en": "TAKANA",
+        "mm": "တကန"
+      },
+      "name": {
+        "en": "TATKON",
+        "mm": "တပ်ကုန်း"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "wMEvpIt1m0slHoPa",
+      "code": "NYAUNGU",
+      "short": {
+        "en": "NYAOUNA",
+        "mm": "ညဥန"
+      },
+      "name": {
+        "en": "NYAUNG U",
+        "mm": "ညောင်ဦး"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "VCeESLKeSCpbL2j9",
+      "code": "MEIKTILA",
+      "short": {
+        "en": "MAHTALA",
+        "mm": "မထလ"
+      },
+      "name": {
+        "en": "MEI KTI LA",
+        "mm": "မိတ္ထီလာ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05181",
+      "district": "Meikhtila"
+    },
+    {
+      "id": "2eZdnlvemYpeWH9j",
+      "code": "WUNDWIN",
+      "short": {
+        "en": "WATANA",
+        "mm": "ဝတန"
+      },
+      "name": {
+        "en": "WUN DWIN",
+        "mm": "ဝမ်းတွင်း"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05172",
+      "district": "Meikhtila"
+    },
+    {
+      "id": "N-hNSUVP3h5LaI7r",
+      "code": "TAGAUNG",
+      "short": {
+        "en": "TAKATA",
+        "mm": "တကတ"
+      },
+      "name": {
+        "en": "TA GAUNG",
+        "mm": "တကောင်း"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "w62qDkRBDwbiKMy8",
+      "code": "PYIGYITAKHUN",
+      "short": {
+        "en": "PAKAKHA",
+        "mm": "ပကခ"
+      },
+      "name": {
+        "en": "PYI GYI TA KHUN",
+        "mm": "ပြည်ကြီးတံခွန်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "rsGsFgXbYHgi8-9h",
+      "code": "THAZI",
+      "short": {
+        "en": "THASANA",
+        "mm": "သစန"
+      },
+      "name": {
+        "en": "THA ZI",
+        "mm": "သာစည်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "02309",
+      "district": "Monywa"
+    },
+    {
+      "id": "xlYsO9DL2khUNFkS",
+      "code": "MYINGYAN",
+      "short": {
+        "en": "MAKHANA",
+        "mm": "မခန"
+      },
+      "name": {
+        "en": "MYIN GYAN",
+        "mm": "မြင်းခြံ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05251",
+      "district": "Myingyan"
+    },
+    {
+      "id": "I1b39XFHcpDNdncy",
+      "code": "NGAZUN",
+      "short": {
+        "en": "NGAZANA",
+        "mm": "ငဇန"
+      },
+      "name": {
+        "en": "NGAN ZUN",
+        "mm": "ငါန်းဇွန်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05281",
+      "district": "Myingyan"
+    },
+    {
+      "id": "hynvIcJ4p69iGeLO",
+      "code": "NGATHAYAUK",
+      "short": {
+        "en": "NGATHAYA",
+        "mm": "ငသရ"
+      },
+      "name": {
+        "en": "NGA THA YAUK",
+        "mm": "ငါးသရောက်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05234",
+      "district": "NyaungOo"
+    },
+    {
+      "id": "7FdSE4aRiwcHPyLW",
+      "code": "MOGOK",
+      "short": {
+        "en": "MAKANA",
+        "mm": "မကန"
+      },
+      "name": {
+        "en": "MOGOK",
+        "mm": "မိုးကုတ်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05091",
+      "district": "PyinOoLwin"
+    },
+    {
+      "id": "dWmV8TALPKlT7X1W",
+      "code": "PYINOOLWIN",
+      "short": {
+        "en": "PAOULA",
+        "mm": "ပဥလ"
+      },
+      "name": {
+        "en": "PYIN OO LWIN",
+        "mm": "ပြင်‌ဦးလွင်‌"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05081",
+      "district": "PyinOoLwin"
+    },
+    {
+      "id": "HwGp-N5JK1eKCfF6",
+      "code": "THABEIKKYIN",
+      "short": {
+        "en": "THAPAKA",
+        "mm": "သပက"
+      },
+      "name": {
+        "en": "THA BEIK KYIN",
+        "mm": "သပိတ်ကျင်း"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05102",
+      "district": "PyinOoLwin"
+    },
+    {
+      "id": "IhhrvLN4RGPE_oI7",
+      "code": "PYAWBWE",
+      "short": {
+        "en": "PABANA",
+        "mm": "ပဘန"
+      },
+      "name": {
+        "en": "PYAW BWE",
+        "mm": "ပျော်ဘွယ်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05211",
+      "district": "Yamethin"
+    },
+    {
+      "id": "aV3n30bpYpfjftPe",
+      "code": "YAMETHIN",
+      "short": {
+        "en": "YAMATHA",
+        "mm": "ရမသ"
+      },
+      "name": {
+        "en": "YA ME THIN",
+        "mm": "ရမည်းသင်း"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05221",
+      "district": "Yamethin"
+    },
+    {
+      "id": "DQlUKc6ejvr4pYhu",
+      "code": "DEKKHINATHIRI",
+      "short": {
+        "en": "DAKHATHA",
+        "mm": "ဒခသ"
+      },
+      "name": {
+        "en": "DEK KHI NA THIRI",
+        "mm": "ဒက္ခိဏသီရိ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "vdYRqAR_EDMdkFvy",
+      "code": "LEWE",
+      "short": {
+        "en": "LAWANA",
+        "mm": "လဝန"
+      },
+      "name": {
+        "en": "LEWE",
+        "mm": "လယ်ဝေး"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "jiUCUunNLErLnvyj",
+      "code": "PYINMANA",
+      "short": {
+        "en": "PAMANA",
+        "mm": "ပမန"
+      },
+      "name": {
+        "en": "PYIN MA NA",
+        "mm": "ပျဉ်းမနား"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "LqfEkS4_G1K-Kxnm",
+      "code": "ZEYARTHIRI",
+      "short": {
+        "en": "ZAYATHA",
+        "mm": "ဇယသ"
+      },
+      "name": {
+        "en": "ZE YAR THIRI",
+        "mm": "ဇေယျာသီရိ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "10085",
+      "district": "Pathein"
+    },
+    {
+      "id": "S-YlIvEXHe4FMHu_",
+      "code": "MADAYA",
+      "short": {
+        "en": "MATAYA",
+        "mm": "မတရ"
+      },
+      "name": {
+        "en": "MA DA YA",
+        "mm": "မတ္တရာ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05121",
+      "district": "PyinOoLwin"
+    },
+    {
+      "id": "fdcDWBEXcCmIv96M",
+      "code": "TAUNGTHA",
+      "short": {
+        "en": "TATHANA",
+        "mm": "တသန"
+      },
+      "name": {
+        "en": "TAUNG THA",
+        "mm": "တောင်သာ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05271",
+      "district": "Myingyan"
+    },
+    {
+      "id": "5XPfw_dpPtzZ0fdL",
+      "code": "MAHLAING",
+      "short": {
+        "en": "MALANA",
+        "mm": "မလန"
+      },
+      "name": {
+        "en": "MA HLAING",
+        "mm": "မလှိုင်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05201",
+      "district": "Meikhtila"
+    },
+    {
+      "id": "QLG4vgvPJVOnirhy",
+      "code": "CHANAYETHARZAN",
+      "short": {
+        "en": "KHAAHZA",
+        "mm": "ခအဇ"
+      },
+      "name": {
+        "en": "CHAN AYE THAR ZAN",
+        "mm": "ချမ်းအေးသာဇံ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05021",
+      "district": "Mandalay"
+    },
+    {
+      "id": "UP2KQOz9vaE_20FG",
+      "code": "BAGAN",
+      "short": {
+        "en": "-",
+        "mm": "-"
+      },
+      "name": {
+        "en": "BAGAN",
+        "mm": "ပုဂံ"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "05232",
+      "district": "NyaungOo"
+    },
+    {
+      "id": "A2i3KO_tPsZdZJX4",
+      "code": "SHWEKYIN",
+      "short": {
+        "en": "YAKANA",
+        "mm": "ရကန"
+      },
+      "name": {
+        "en": "SHWEKYIN",
+        "mm": "ရွှေကျင်"
+      },
+      "stateId": "5PflwjWItczLTOof",
+      "stateCode": "9",
+      "postalCode": "08051",
+      "district": "Bago"
+    },
+    {
+      "id": "3ZFbwzx4RgIWwqzz",
+      "code": "BEELIN",
+      "short": {
+        "en": "BALANA",
+        "mm": "ဘလန"
+      },
+      "name": {
+        "en": "BEE LIN",
+        "mm": "ဘီလင်း"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12031",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "dfN0sOQvvrCtv0l-",
+      "code": "PAUNG",
+      "short": {
+        "en": "PAMANA",
+        "mm": "ပမန"
+      },
+      "name": {
+        "en": "PAUNG",
+        "mm": "ပေါင်"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12051",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "IteUPxE6EGnDqbbn",
+      "code": "YE",
+      "short": {
+        "en": "YAMANA",
+        "mm": "ရမန"
+      },
+      "name": {
+        "en": "YE",
+        "mm": "ရေး"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12101",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "KpItim_6rbvbe0zU",
+      "code": "KYAIKKHAMI",
+      "short": {
+        "en": "KAKHAMA",
+        "mm": "ကခမ"
+      },
+      "name": {
+        "en": "KYAIK KHA MI",
+        "mm": "ကျိုက်ခမီ"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12092",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "ZymwfgXhM8w_XbHW",
+      "code": "LAMINE",
+      "short": {
+        "en": "LAMANA",
+        "mm": "လမန"
+      },
+      "name": {
+        "en": "LA MINE",
+        "mm": "လမိုင်း"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12102",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "LnLFtCrD8ijGqvVG",
+      "code": "CHAUNGSONE",
+      "short": {
+        "en": "KHASANA",
+        "mm": "ခဆန"
+      },
+      "name": {
+        "en": "CHAUNG SONE",
+        "mm": "ချောင်းဆုံ"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12061",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "hxWvHrSQsRSUXq1S",
+      "code": "KYAIKEMARAW",
+      "short": {
+        "en": "KAMAYA",
+        "mm": "ကမရ"
+      },
+      "name": {
+        "en": "KYAIKE MA RAW",
+        "mm": "ကျိုက်မရော"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12071",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "RNlgtOGsd2L6G1LH",
+      "code": "MAWLAMYING",
+      "short": {
+        "en": "MALAMA",
+        "mm": "မလမ"
+      },
+      "name": {
+        "en": "MAW LA MYING",
+        "mm": "မော်လမြိုင်"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12011",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "7rgFP6a0MuSiivau",
+      "code": "MUDON",
+      "short": {
+        "en": "MADANA",
+        "mm": "မဒန"
+      },
+      "name": {
+        "en": "MUDON",
+        "mm": "မုဒုံ"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12081",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "BRsNzV8svoNFVpdm",
+      "code": "THANBYUZAYAT",
+      "short": {
+        "en": "THAPHAYA",
+        "mm": "သဖရ"
+      },
+      "name": {
+        "en": "THAN BYU ZA YAT",
+        "mm": "သံဖြူဇရပ်"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12091",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "ICN-j5aDsNvHfpt7",
+      "code": "KYAIKTO",
+      "short": {
+        "en": "KAHTANA",
+        "mm": "ကထန"
+      },
+      "name": {
+        "en": "KYAIK TO",
+        "mm": "ကျိုက်ထို"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12021",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "r1P1_FN5TOTfeYfX",
+      "code": "THAHTON",
+      "short": {
+        "en": "THAHTANA",
+        "mm": "သထန"
+      },
+      "name": {
+        "en": "THAHTON",
+        "mm": "သထုံ"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12041",
+      "district": "Thahton"
+    },
+    {
+      "id": "Oc3qZ6TAbDCGzm9X",
+      "code": "KHAWZAR",
+      "short": {
+        "en": "KHAZANA",
+        "mm": "ခဇန"
+      },
+      "name": {
+        "en": "KHAW ZAR",
+        "mm": "ခေါဇာ"
+      },
+      "stateId": "uQgglJ-AhohYQJNB",
+      "stateCode": "10",
+      "postalCode": "12104",
+      "district": "Mawlamyaing"
+    },
+    {
+      "id": "hXv7BUQLa1ORBS85",
+      "code": "GWA",
+      "short": {
+        "en": "GAMANA",
+        "mm": "ဂမန"
+      },
+      "name": {
+        "en": "GWA",
+        "mm": "ဂွ"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07181",
+      "district": "Thandway"
+    },
+    {
+      "id": "a5kASAP5stP2BOXC",
+      "code": "MYEBON",
+      "short": {
+        "en": "MAPATA",
+        "mm": "မပတ"
+      },
+      "name": {
+        "en": "MYE BON",
+        "mm": "မြေပုံ"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": "Sittwe"
+    },
+    {
+      "id": "CLmdR7dJaNiP4N0J",
+      "code": "TAUNGPYO",
+      "short": {
+        "en": "TAPAWA",
+        "mm": "တပ၀"
+      },
+      "name": {
+        "en": "TAUNG PYO",
+        "mm": "တောင်ပြိုလက်ဝဲဒ"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "Vl5ebxQn_qxGzpI7",
+      "code": "THANDWE",
+      "short": {
+        "en": "THATANA",
+        "mm": "သတန"
+      },
+      "name": {
+        "en": "THAN DWE",
+        "mm": "သံတွဲ"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "8WA5b_JGAQGWvLwI",
+      "code": "BUTHIDAUNG",
+      "short": {
+        "en": "BATHATA",
+        "mm": "ဘသတ"
+      },
+      "name": {
+        "en": "BU THI DAUNG",
+        "mm": "ဘူးသီးတောင်"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07031",
+      "district": "Maungdaw"
+    },
+    {
+      "id": "_gdnz83gPR0qaX-o",
+      "code": "MAUNG TAW",
+      "short": {
+        "en": "BATHATA",
+        "mm": "ဘသတ"
+      },
+      "name": {
+        "en": "MAUNGTAW",
+        "mm": "မောင်းတော"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "TEzcGfrBKh9W5LSZ",
+      "code": "PONNAGYUN-1",
+      "short": {
+        "en": "PANATA",
+        "mm": "ပဏတ"
+      },
+      "name": {
+        "en": "PON NA GYUN",
+        "mm": "ပုဏ္ဏားကျွန်း"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07051",
+      "district": "Sittwe"
+    },
+    {
+      "id": "iuBuiTI1hatSutwf",
+      "code": "SITTWAY",
+      "short": {
+        "en": "SATANA",
+        "mm": "စတန"
+      },
+      "name": {
+        "en": "SIT TWAY",
+        "mm": "စစ်တွေ"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "NJ_UUyhsZ69urvuk",
+      "code": "KYEINTALI",
+      "short": {
+        "en": "KATALA",
+        "mm": "ကတလ"
+      },
+      "name": {
+        "en": "KYEI NTA LI",
+        "mm": "ကျိန္တလီ"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07182",
+      "district": "Thandway"
+    },
+    {
+      "id": "DZ5iTDGEf_wPK_yO",
+      "code": "AN",
+      "short": {
+        "en": "AHMANA",
+        "mm": "အမန"
+      },
+      "name": {
+        "en": "AN",
+        "mm": "အမ်း"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "NkEsafi60YXgB1R8",
+      "code": "KYAUKPYU",
+      "short": {
+        "en": "KAPHANA",
+        "mm": "ကဖန"
+      },
+      "name": {
+        "en": "KYAUK PYU",
+        "mm": "ကျောက်ဖြူ"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07121",
+      "district": "Kyaukphyu"
+    },
+    {
+      "id": "B0xizr4QR0mRAsW8",
+      "code": "MANNAUNG",
+      "short": {
+        "en": "MAAHNA",
+        "mm": "မအန"
+      },
+      "name": {
+        "en": "MANN AUNG",
+        "mm": "မာန်အောင်"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": "Muse"
+    },
+    {
+      "id": "mUE3fc36BsLh3vIf",
+      "code": "YANBYE",
+      "short": {
+        "en": "YABANA",
+        "mm": "ရဗန"
+      },
+      "name": {
+        "en": "YAN BYE",
+        "mm": "ရမ်းဗြဲ"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "sFmS8GnBmMYJsLHR",
+      "code": "MAUNGTAW",
+      "short": {
+        "en": "MATANA",
+        "mm": "မတန"
+      },
+      "name": {
+        "en": "MAUNG TAW",
+        "mm": "မောင်းတော"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "Fv6N-Md2_3a6_EMr",
+      "code": "MINBYA",
+      "short": {
+        "en": "MAPANA",
+        "mm": "မပန"
+      },
+      "name": {
+        "en": "MIN BYA",
+        "mm": "မင်းပြား"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07091",
+      "district": "Sittwe"
+    },
+    {
+      "id": "bhbhsMrZf1Hlxbi4",
+      "code": "MYAUKU",
+      "short": {
+        "en": "MAOUNA",
+        "mm": "မဥန"
+      },
+      "name": {
+        "en": "MYAUK U",
+        "mm": "မြောက်ဦး"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "MXNQnSonoZpxcQmJ",
+      "code": "PAUKTAW",
+      "short": {
+        "en": "PATANA",
+        "mm": "ပတန"
+      },
+      "name": {
+        "en": "PAUK TAW",
+        "mm": "ပေါက်တော"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07081",
+      "district": "Sittwe"
+    },
+    {
+      "id": "KD_Y4qXlsHogtPK8",
+      "code": "PONNAGYUN",
+      "short": {
+        "en": "PANAKA",
+        "mm": "ပဏက"
+      },
+      "name": {
+        "en": "PON NA GYUN",
+        "mm": "ပုဏ္ဏားကျွန်း"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07051",
+      "district": "Sittwe"
+    },
+    {
+      "id": "jOUXDbW0H4OhAQMU",
+      "code": "YATHEDAUNG",
+      "short": {
+        "en": "YATHATA",
+        "mm": "ရသတ"
+      },
+      "name": {
+        "en": "YA THE DAUNG",
+        "mm": "ရသေ့တောင်"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07041",
+      "district": "Buteeaung"
+    },
+    {
+      "id": "jX1hM22WVl_-_IHj",
+      "code": "KYAUKTAW",
+      "short": {
+        "en": "KATANA",
+        "mm": "ကတန"
+      },
+      "name": {
+        "en": "KYAUK TAW",
+        "mm": "ကျောက်တော်"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07061",
+      "district": "Sittwe"
+    },
+    {
+      "id": "ibFQDVT8iPws8DVW",
+      "code": "TOUNGUP",
+      "short": {
+        "en": "TAKANA",
+        "mm": "တကန"
+      },
+      "name": {
+        "en": "TOUNGUP",
+        "mm": "တောင်ကုတ်"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "M3ufwykApSG0IO8n",
+      "code": "MAEI",
+      "short": {
+        "en": "MAAHTA",
+        "mm": "မအတ"
+      },
+      "name": {
+        "en": "MAEI",
+        "mm": "မအီ"
+      },
+      "stateId": "OfeDuBL9FsUHKi8j",
+      "stateCode": "11",
+      "postalCode": "07162",
+      "district": "Thandway"
+    },
+    {
+      "id": "iDAG41mvlUp7D0Qy",
+      "code": "DAGONMYOTHIT(EAST)",
+      "short": {
+        "en": "DAGAYA",
+        "mm": "ဒဂရ"
+      },
+      "name": {
+        "en": "DAGON MYOTHIT(EAST)",
+        "mm": "ဒဂုံမြို့သစ် (အရှေ့)"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "_4sJlYCailnh394X",
+      "code": "DAWBON",
+      "short": {
+        "en": "DAPANA",
+        "mm": "ဒပန"
+      },
+      "name": {
+        "en": "DAW BON",
+        "mm": "ဒေါပုံ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "_Agvhuwan67YtEIt",
+      "code": "SOUTHOKKALAPA",
+      "short": {
+        "en": "OUKATA",
+        "mm": "ဥကတ"
+      },
+      "name": {
+        "en": "SOUTH OKKALAPA",
+        "mm": "တောင်ဥက္ကလာ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "KAMe9hxWURfLzOu2",
+      "code": "THAKAYTA",
+      "short": {
+        "en": "THAKATA",
+        "mm": "သကတ"
+      },
+      "name": {
+        "en": "THA KAY TA",
+        "mm": "သာကေတ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "-v8PkAOXg8VmBrGE",
+      "code": "THINGANGYUN",
+      "short": {
+        "en": "THAGAKA",
+        "mm": "သဃက"
+      },
+      "name": {
+        "en": "THIN GAN GYUN",
+        "mm": "သင်္ဃန်းကျွန်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "9-gh-5mvajAICDVj",
+      "code": "YANKIN",
+      "short": {
+        "en": "YAKANA",
+        "mm": "ရကန"
+      },
+      "name": {
+        "en": "YAN KIN",
+        "mm": "ရန်ကင်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "KxYyjXCcKG9YPMXS",
+      "code": "HMAWBY",
+      "short": {
+        "en": "MABANA",
+        "mm": "မဘန"
+      },
+      "name": {
+        "en": "HMAWBY",
+        "mm": "မှော်ဘီ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "IgnX35_WOSUU5VDK",
+      "code": "MINGALADON",
+      "short": {
+        "en": "MAGADA",
+        "mm": "မဂဒ"
+      },
+      "name": {
+        "en": "MIN GA LA DON",
+        "mm": "မင်္ဂလာဒုံ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "pwd98xktrwoB9r_p",
+      "code": "SHWEPYITHA",
+      "short": {
+        "en": "YAPATHA",
+        "mm": "ရပသ"
+      },
+      "name": {
+        "en": "SHWE PYI THA",
+        "mm": "ရွှေပြည်သာ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "wNDgPSwNpyuw976f",
+      "code": "TAIKKYI",
+      "short": {
+        "en": "TAKANA",
+        "mm": "တကန"
+      },
+      "name": {
+        "en": "TAIKKYI",
+        "mm": "တိုက်ကြီး"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "W-AROOoTuOy-t1s3",
+      "code": "DALA",
+      "short": {
+        "en": "DALANA",
+        "mm": "ဒလန"
+      },
+      "name": {
+        "en": "DALA",
+        "mm": "ဒလ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "Rx0yPNNtvqGUrbiu",
+      "code": "KUNGYANGON",
+      "short": {
+        "en": "KAKHAKA",
+        "mm": "ကခက"
+      },
+      "name": {
+        "en": "KUN GYAN GON",
+        "mm": "ကွမ်းခြံကုန်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "wFAAKH5JvFbJvff2",
+      "code": "THANLYIN",
+      "short": {
+        "en": "THALANA",
+        "mm": "သလန"
+      },
+      "name": {
+        "en": "THAN LYIN",
+        "mm": "သန်လျင်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "XG00tDKHHiYtaBk6",
+      "code": "THONGWA",
+      "short": {
+        "en": "THAKHANA",
+        "mm": "သခန"
+      },
+      "name": {
+        "en": "THON GWA",
+        "mm": "သုံးခွ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": "Bago"
+    },
+    {
+      "id": "pMXkEkxPi_-0OxUO",
+      "code": "TWANTAY",
+      "short": {
+        "en": "TATANA",
+        "mm": "တတန"
+      },
+      "name": {
+        "en": "TWAN TAY",
+        "mm": "တွံတေး"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "c-Oxfy5rbPXNudl_",
+      "code": "BAHAN",
+      "short": {
+        "en": "BAHANA",
+        "mm": "ဗဟန"
+      },
+      "name": {
+        "en": "BAHAN",
+        "mm": "ဗဟန်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "8Y7cH7ZIMdDScbKl",
+      "code": "HLAING",
+      "short": {
+        "en": "LAMANA",
+        "mm": "လမန"
+      },
+      "name": {
+        "en": "HLAING",
+        "mm": "လှိုင်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "OjJkyZqewximexrE",
+      "code": "KYAUKTADA",
+      "short": {
+        "en": "KATATA",
+        "mm": "ကတတ"
+      },
+      "name": {
+        "en": "KYAUK TA DA",
+        "mm": "ကျောက်တံတား"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "7xuMGxFX_CCYK-J1",
+      "code": "KYIMYINDINE",
+      "short": {
+        "en": "KAMATA",
+        "mm": "ကမတ"
+      },
+      "name": {
+        "en": "KYI MYIN DINE",
+        "mm": "ကြည့်မြင်တိုင်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "YIiRkpSlTrPj2FT0",
+      "code": "LATHA",
+      "short": {
+        "en": "LATHANA",
+        "mm": "လသန"
+      },
+      "name": {
+        "en": "LATHA",
+        "mm": "လသာ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "gWYtrRsyMtQEzgJK",
+      "code": "MAYANGON",
+      "short": {
+        "en": "MAYAKA",
+        "mm": "မရက"
+      },
+      "name": {
+        "en": "MAYAN GON",
+        "mm": "မရမ်းကုန်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": "12025",
+      "district": "Thahton"
+    },
+    {
+      "id": "cVe5VrIN8yHOZW_7",
+      "code": "HTANTABIN",
+      "short": {
+        "en": "HTATAPA",
+        "mm": "ထတပ"
+      },
+      "name": {
+        "en": "HTAN TA BIN",
+        "mm": "ထန်းတပင်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": "02214",
+      "district": "Shwebo"
+    },
+    {
+      "id": "64RVmkzB8opdqNWG",
+      "code": "TAMWAY",
+      "short": {
+        "en": "TAMANA",
+        "mm": "တမန"
+      },
+      "name": {
+        "en": "TA MWAY",
+        "mm": "တာမွေ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "Uk2JoaMQq2mQSzxL",
+      "code": "HLINETHAYA",
+      "short": {
+        "en": "LATHAYA",
+        "mm": "လသယ"
+      },
+      "name": {
+        "en": "HLINE THA YA",
+        "mm": "လှိုင်သာယာ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "kRhoTjBgXZg1Yiz1",
+      "code": "SANGYOUNG",
+      "short": {
+        "en": "SAKHANA",
+        "mm": "စခန"
+      },
+      "name": {
+        "en": "SAN GYOUNG",
+        "mm": "စမ်းချောင်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "0EL9r8HLdKldiYAK",
+      "code": "BOTAHTAUNG",
+      "short": {
+        "en": "BATAHTA",
+        "mm": "ဗတထ"
+      },
+      "name": {
+        "en": "BO TA HTAUNG",
+        "mm": "ဗိုလ်တထောင်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "x6CTcduRa3RIQ-UG",
+      "code": "SEIKKYI/KHANAUNGTO",
+      "short": {
+        "en": "SAKAKHA",
+        "mm": "ဆကခ"
+      },
+      "name": {
+        "en": "SEIKKYI/KHANAUNGTO",
+        "mm": "ဆိပ်ကြီးခနောင်တို"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "V1hY619qSyGNpqVw",
+      "code": "KAMAYUT",
+      "short": {
+        "en": "KAMAYA",
+        "mm": "ကမရ"
+      },
+      "name": {
+        "en": "KA MA YUT",
+        "mm": "ကမာရွတ်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "hTRvooxvhMF95MIX",
+      "code": "COCOGYUN",
+      "short": {
+        "en": "KAKAKA",
+        "mm": "ကကက"
+      },
+      "name": {
+        "en": "CO CO GYUN",
+        "mm": "ကိုကိုးကျွန်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "DYk8ijZlc2dtbGeZ",
+      "code": "DAGON",
+      "short": {
+        "en": "DAGANA",
+        "mm": "ဒဂန"
+      },
+      "name": {
+        "en": "DAGON",
+        "mm": "ဒဂုံ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "oKLw6WHQSvfdQVgj",
+      "code": "MINGALATAUNGNYUNT",
+      "short": {
+        "en": "MAGATA",
+        "mm": "မဂတ"
+      },
+      "name": {
+        "en": "MINGALA TAUNG NYUNT",
+        "mm": "မင်္ဂလာ‌တောင်ညွန့်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "oAIpEryyl6pOobUS",
+      "code": "NORTHOKKALAPA",
+      "short": {
+        "en": "OUKAMA",
+        "mm": "ဥကမ"
+      },
+      "name": {
+        "en": "NORTH OKKALAPA",
+        "mm": "မြောက်ဥက္ကလာ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "dKFgvJZN0z3Qffve",
+      "code": "KHAYAN",
+      "short": {
+        "en": "KHAYANA",
+        "mm": "ခရန"
+      },
+      "name": {
+        "en": "KHAYAN",
+        "mm": "ခရမ်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "PKvlyTQgNvm1kZ2e",
+      "code": "SOUTHDAGON",
+      "short": {
+        "en": "DAGATA",
+        "mm": "ဒဂတ"
+      },
+      "name": {
+        "en": "SOUTH DAGON",
+        "mm": "ဒဂုံမြို့သစ် (တောင်)"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "ZUAjaf3uH78FqtCJ",
+      "code": "NORTHDAGON",
+      "short": {
+        "en": "DAGAMA",
+        "mm": "ဒဂမ"
+      },
+      "name": {
+        "en": "NORTH DAGON",
+        "mm": "ဒဂုံမြို့သစ် (မြောက်)"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "nniwTR3vq2uB9de5",
+      "code": "LANMADAW",
+      "short": {
+        "en": "LAMATA",
+        "mm": "လမတ"
+      },
+      "name": {
+        "en": "LAN MA DAW",
+        "mm": "လမ်းမတော်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "ozGRPYKD2UYfSduC",
+      "code": "DAGONMYOTHIT(SEIKKAN)",
+      "short": {
+        "en": "DAGASA",
+        "mm": "ဒဂဆ"
+      },
+      "name": {
+        "en": "DAGON MYOTHIT(SEIKKAN)",
+        "mm": "ဒဂုံဆိပ်ကမ်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "YuxsuAcI3DHipJaf",
+      "code": "HLEGU",
+      "short": {
+        "en": "LAKANA",
+        "mm": "လကန"
+      },
+      "name": {
+        "en": "HLEGU",
+        "mm": "လှည်းကူး"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "KZFQuHHRo7fanPlq",
+      "code": "SHWEPAUKKAN",
+      "short": {
+        "en": "OUKAMA",
+        "mm": "ဥကမ"
+      },
+      "name": {
+        "en": "SHWE PAUK KAN",
+        "mm": "ရွှေပေါက်ကံ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "7sTroQM7vfZnm0F9",
+      "code": "SEIKKAN",
+      "short": {
+        "en": "SAKANA",
+        "mm": "ဆကန"
+      },
+      "name": {
+        "en": "SEIKKAN",
+        "mm": "ဆိပ်ကမ်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "oeaNIvKbSL7pEy_O",
+      "code": "PABEDAN",
+      "short": {
+        "en": "PABATA",
+        "mm": "ပဘတ"
+      },
+      "name": {
+        "en": "PA BE DAN",
+        "mm": "ပန်းဘဲတန်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "rAJ6wXly9AWfqysi",
+      "code": "PAZUNTAUNG",
+      "short": {
+        "en": "PAZATA",
+        "mm": "ပဇတ"
+      },
+      "name": {
+        "en": "PA ZUN TAUNG",
+        "mm": "ပုဇွန်တောင်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "tBH7Joa7ckmBNwpd",
+      "code": "INSEIN",
+      "short": {
+        "en": "AHSANA",
+        "mm": "အစန"
+      },
+      "name": {
+        "en": "INSEIN",
+        "mm": "အင်းစိန်"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "p9d5igJorVIy2w8M",
+      "code": "AHLON",
+      "short": {
+        "en": "AHLANA",
+        "mm": "အလန"
+      },
+      "name": {
+        "en": "AHLON",
+        "mm": "အလုံ"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": "02303",
+      "district": "Monywa"
+    },
+    {
+      "id": "YxyWBsDrCAzgbSAZ",
+      "code": "KAWHMU",
+      "short": {
+        "en": "KAMANA",
+        "mm": "ကမန"
+      },
+      "name": {
+        "en": "KAW HMU",
+        "mm": "ကော့မှူး"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "9zwTEJmARZAq32fK",
+      "code": "KYAUKTAN",
+      "short": {
+        "en": "KATANA",
+        "mm": "ကတန"
+      },
+      "name": {
+        "en": "KYAUK TAN",
+        "mm": "ကျောက်တန်း"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": "06093",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "8n9pK6cxtHoVd3_B",
+      "code": "TATAR",
+      "short": {
+        "en": "TATAHTA",
+        "mm": "တတထ"
+      },
+      "name": {
+        "en": "TATAR",
+        "mm": "တံတား"
+      },
+      "stateId": "Zvxm3m8cAwCeDgz1",
+      "stateCode": "12",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "cGKynSQJAgrRJ6Wn",
+      "code": "PANGLONG",
+      "short": {
+        "en": "PALANA",
+        "mm": "ပလန"
+      },
+      "name": {
+        "en": "PANG LONG",
+        "mm": "ပင်လုံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "6uqpDBxXoMx9EvK0",
+      "code": "MANTON",
+      "short": {
+        "en": "MATATA",
+        "mm": "မတတ"
+      },
+      "name": {
+        "en": "MAN TON",
+        "mm": "မန်တုံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06541",
+      "district": "Kyaukme"
+    },
+    {
+      "id": "HeAxc7XUS8RkGgfu",
+      "code": "MINEYE",
+      "short": {
+        "en": "MAYANA",
+        "mm": "မရန"
+      },
+      "name": {
+        "en": "MINE YE",
+        "mm": "မိုင်းရယ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06421",
+      "district": "Lashio"
+    },
+    {
+      "id": "CiNgv2LY4cV1PIca",
+      "code": "NAPHANG",
+      "short": {
+        "en": "NAPHANA",
+        "mm": "နဖန"
+      },
+      "name": {
+        "en": "NA PHANG",
+        "mm": "နားဖန့်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "QsZfm51DL_syLEhb",
+      "code": "MINEYAN",
+      "short": {
+        "en": "MAYANA",
+        "mm": "မယန"
+      },
+      "name": {
+        "en": "MINE YAN",
+        "mm": "မိုင်းယန်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06242",
+      "district": "Kyaingtong"
+    },
+    {
+      "id": "u3caa414o1ouInJM",
+      "code": "PHEKON",
+      "short": {
+        "en": "PHAKHANA",
+        "mm": "ဖခန"
+      },
+      "name": {
+        "en": "PHE KON",
+        "mm": "ဖယ်ခုံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06064",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "yK9qb86bmqL1dR86",
+      "code": "KARLI",
+      "short": {
+        "en": "KALADA",
+        "mm": "ကလဒ"
+      },
+      "name": {
+        "en": "KARLI",
+        "mm": "ကာလီ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06213",
+      "district": "Loilin"
+    },
+    {
+      "id": "SR1cgGZhRfE2GxSv",
+      "code": "KYAUKTALONGYI",
+      "short": {
+        "en": "KATALA",
+        "mm": "ကတလ"
+      },
+      "name": {
+        "en": "KYAUK TA LON GYI",
+        "mm": "ကျောက်တလုံးကြီး"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "-3irfvmlk3QdiNhJ",
+      "code": "MINESAN-MONSAN",
+      "short": {
+        "en": "MASATA",
+        "mm": "မစတ"
+      },
+      "name": {
+        "en": "MINESAN-MONSAN",
+        "mm": "မိုင်းစံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "RwmbIFLuvSjor95X",
+      "code": "MINEPHYAT",
+      "short": {
+        "en": "MAPHANA",
+        "mm": "မဖန"
+      },
+      "name": {
+        "en": "MINE PHYAT",
+        "mm": "မိုင်းဖြတ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06251",
+      "district": "Minephat"
+    },
+    {
+      "id": "QmrGUfcnaRW06U5b",
+      "code": "TALAY",
+      "short": {
+        "en": "TALANA",
+        "mm": "တလန"
+      },
+      "name": {
+        "en": "TA LAY",
+        "mm": "တာလေ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": "Tachileik"
+    },
+    {
+      "id": "lfwo4BHmTvU4am25",
+      "code": "MAUKME",
+      "short": {
+        "en": "MAMANA",
+        "mm": "မမန"
+      },
+      "name": {
+        "en": "MAUK ME",
+        "mm": "မောက်မယ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "iNeqXK1Ae-IcMr5Z",
+      "code": "CHINSHWEHAW",
+      "short": {
+        "en": "KHAYAHA",
+        "mm": "ခရဟ"
+      },
+      "name": {
+        "en": "CHIN SHWE HAW",
+        "mm": "ချင်းရွှေဟော်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06482",
+      "district": "Laukkaing"
+    },
+    {
+      "id": "ccwXdiDxMIYURMFO",
+      "code": "PANYAN",
+      "short": {
+        "en": "PAYANA",
+        "mm": "တခလ"
+      },
+      "name": {
+        "en": "PANYAN",
+        "mm": "တာချီလိတ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "_hqk2Z1PsQM3GQN_",
+      "code": "NYAUNGTAYAR",
+      "short": {
+        "en": "-",
+        "mm": "-"
+      },
+      "name": {
+        "en": "NYAUNG TA YAR",
+        "mm": "ညောင်တရာ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06053",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "pwLLM4xGBExqRAWU",
+      "code": "MAWHTIKE",
+      "short": {
+        "en": "MAHTATA",
+        "mm": "မထတ"
+      },
+      "name": {
+        "en": "MAW HTIKE",
+        "mm": "မော်ထိုက်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "jyLhxqYbb4Y-wpQF",
+      "code": "MINE KOKE",
+      "short": {
+        "en": "MAKHATA",
+        "mm": "မခတ"
+      },
+      "name": {
+        "en": "MINE KOKE",
+        "mm": "မိုင်းခုတ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "RQcTT-3ZuXn5KgvM",
+      "code": "AUNGPAN",
+      "short": {
+        "en": "AHPANA",
+        "mm": "အပန"
+      },
+      "name": {
+        "en": "AUNG PAN",
+        "mm": "အောင်ပန်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06022",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "XkxZbqLH9IZrVC5s",
+      "code": "AYETHARYAR",
+      "short": {
+        "en": "AHTHAYA",
+        "mm": "အသယ"
+      },
+      "name": {
+        "en": "AYE THAR YAR",
+        "mm": "အေးသာယာ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "NGK8eW-N-W8yZgK0",
+      "code": "HEHO",
+      "short": {
+        "en": "HAHANA",
+        "mm": "ဟဟန"
+      },
+      "name": {
+        "en": "HEHO",
+        "mm": "ဟဲဟိုး"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06023",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "bNgbwzIbRiLNQuJg",
+      "code": "KALAW",
+      "short": {
+        "en": "KALANA",
+        "mm": "ကလန"
+      },
+      "name": {
+        "en": "KA LAW",
+        "mm": "က‌လော"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06022",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "FbIvm68X3U3mB2hb",
+      "code": "MINEPAUK",
+      "short": {
+        "en": "MAPAHTA",
+        "mm": "မပထ"
+      },
+      "name": {
+        "en": "MINE PAUK",
+        "mm": "မိုင်းပေါက်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06242",
+      "district": "Kyaingtong"
+    },
+    {
+      "id": "97Z783GG4y2GmuUf",
+      "code": "KENGTAUNG",
+      "short": {
+        "en": "KATATA",
+        "mm": "ကတတ"
+      },
+      "name": {
+        "en": "KENG TAUNG",
+        "mm": "ကျိုင်းတောင်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "oMS2Q6J4_wa56jPm",
+      "code": "YATSAUK",
+      "short": {
+        "en": "YASANA",
+        "mm": "ရစန"
+      },
+      "name": {
+        "en": "YAT SAUK",
+        "mm": "ရက်စောက်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06074",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "twRnXz36Lcd2I6ux",
+      "code": "MINESAT",
+      "short": {
+        "en": "MASANA",
+        "mm": "မဆန"
+      },
+      "name": {
+        "en": "MINE SAT",
+        "mm": "မိုင်းဆတ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06281",
+      "district": "Minesatt"
+    },
+    {
+      "id": "uSSRQosMmJvIyWPX",
+      "code": "MINETONE",
+      "short": {
+        "en": "MATANA",
+        "mm": "မတန"
+      },
+      "name": {
+        "en": "MINE TONE",
+        "mm": "မိုင်းတုံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "080401",
+      "district": "Thayet"
+    },
+    {
+      "id": "9HzCkgfxR5QYbZRI",
+      "code": "MYINMU",
+      "short": {
+        "en": "MAMANA",
+        "mm": "မမန"
+      },
+      "name": {
+        "en": "MYIN MU",
+        "mm": "မြင်းမူ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "02341",
+      "district": "Sagaing"
+    },
+    {
+      "id": "Ethe3bgatSl0-Rnq",
+      "code": "MINE YAL",
+      "short": {
+        "en": "MARATA",
+        "mm": "မရတ"
+      },
+      "name": {
+        "en": "MINE YAL",
+        "mm": "မိုင်းရယ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "aPqbSUOOlAklv7io",
+      "code": "MONEKHA",
+      "short": {
+        "en": "-",
+        "mm": "-"
+      },
+      "name": {
+        "en": "MONE KHA",
+        "mm": "မုန်းခ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "Py1oGQov2TsfCGZ6",
+      "code": "SHWENYAUNG",
+      "short": {
+        "en": "YANYANA",
+        "mm": "ရညန"
+      },
+      "name": {
+        "en": "SHWE NYAUNG",
+        "mm": "ရွှေညောင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06012",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "nZLSh5y4NkngUgxb",
+      "code": "NANTIT",
+      "short": {
+        "en": "-",
+        "mm": "-"
+      },
+      "name": {
+        "en": "NAN TIT",
+        "mm": "နန်တစ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06392",
+      "district": "Konlon"
+    },
+    {
+      "id": "PRG6AMRZ_16upoPY",
+      "code": "KHOLAN",
+      "short": {
+        "en": "KHALANA",
+        "mm": "ခလန"
+      },
+      "name": {
+        "en": "KHO LAN",
+        "mm": "ခိုလန်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06163",
+      "district": "Loilin"
+    },
+    {
+      "id": "jjfOa6t--G_6PzWj",
+      "code": "MINE HTONE",
+      "short": {
+        "en": "MAHTANA",
+        "mm": "မထန"
+      },
+      "name": {
+        "en": "MINE HTONE",
+        "mm": "မိုင်းထုံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "lx1vTOGIeFoZCD5a",
+      "code": "PAN LAUNG",
+      "short": {
+        "en": "PALAHTA",
+        "mm": "ပလထ"
+      },
+      "name": {
+        "en": "PAN LONG",
+        "mm": "ပန်လုံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "eTGyff_a8h-bDxb4",
+      "code": "TONETAR",
+      "short": {
+        "en": "TATANA",
+        "mm": "တတန"
+      },
+      "name": {
+        "en": "TONE TAR",
+        "mm": "တုန်တာ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "oECwG4VQz8QTGRPL",
+      "code": "MINE YAUNG",
+      "short": {
+        "en": "MAYAHTA",
+        "mm": "မယထ"
+      },
+      "name": {
+        "en": "MINE YAUNG",
+        "mm": "မိုင်းယောင်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06263",
+      "district": "Minepyat"
+    },
+    {
+      "id": "nWJTiPaOvya2fdfd",
+      "code": "MANKAN",
+      "short": {
+        "en": "MAKAHTA",
+        "mm": "မကထ"
+      },
+      "name": {
+        "en": "MANKAN",
+        "mm": "မန္ကန္"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "mooTznEddVE3oyEa",
+      "code": "KUNLON",
+      "short": {
+        "en": "KALATA",
+        "mm": "ကလတ"
+      },
+      "name": {
+        "en": "KUN LON",
+        "mm": "ကွမ်းလုံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "MaerUsWhYIwAWyFG",
+      "code": "LAUKINE",
+      "short": {
+        "en": "LAKANA",
+        "mm": "လကန"
+      },
+      "name": {
+        "en": "LAU KINE",
+        "mm": "လောက်ကိုင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "YgL1aw4MpTPyWVMy",
+      "code": "TACHILEIK",
+      "short": {
+        "en": "TAKHALA",
+        "mm": "တခလ"
+      },
+      "name": {
+        "en": "TA CHI LEIK",
+        "mm": "တာချီလိတ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06271",
+      "district": "Tachileik"
+    },
+    {
+      "id": "unoGo4FBiB9-Kupc",
+      "code": "KUTKAI",
+      "short": {
+        "en": "KAKHANA",
+        "mm": "ကခန"
+      },
+      "name": {
+        "en": "KUT KAI",
+        "mm": "ကွက်ခိုင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06374",
+      "district": "Muse"
+    },
+    {
+      "id": "rnpk9R0BhAPA9Y-r",
+      "code": "MINEKOKE",
+      "short": {
+        "en": "MAKANA",
+        "mm": "မကန"
+      },
+      "name": {
+        "en": "MINE KOKE",
+        "mm": "မိုင်းကော"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "eZJrP4m1KTo9yOTe",
+      "code": "KEHSI",
+      "short": {
+        "en": "KATHANA",
+        "mm": "ကသန"
+      },
+      "name": {
+        "en": "KEHSI",
+        "mm": "ကျေးသီ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "nRdydABz957Vidfn",
+      "code": "HOMANE",
+      "short": {
+        "en": "HAMANA",
+        "mm": "ဟမန"
+      },
+      "name": {
+        "en": "HO MANE",
+        "mm": "ဟိုမိန်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "Slv-0GjHKCJXG34f",
+      "code": "MONEKOE",
+      "short": {
+        "en": "MAKATA",
+        "mm": "မကတ"
+      },
+      "name": {
+        "en": "MONE KOE",
+        "mm": "မုန်းကိုး"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06404",
+      "district": "Muse"
+    },
+    {
+      "id": "3S_I9rN7DzNAADdc",
+      "code": "NANHSAM-NORTH",
+      "short": {
+        "en": "NAHSANA",
+        "mm": "နဆန"
+      },
+      "name": {
+        "en": "NANHSAM-NORTH",
+        "mm": "နမ့်ဆန်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "pELariH_u43L5iCj",
+      "code": "PINDAYA",
+      "short": {
+        "en": "PATAYA",
+        "mm": "ပတယ"
+      },
+      "name": {
+        "en": "PIN DA YA",
+        "mm": "ပင်းတယ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "R3jmS07-FcUCBEgH",
+      "code": "LECHAR",
+      "short": {
+        "en": "LAKHANA",
+        "mm": "လခန"
+      },
+      "name": {
+        "en": "LE CHAR",
+        "mm": "လဲချား"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "qL9Y9sl2S86xVVLy",
+      "code": "NAMKHAM",
+      "short": {
+        "en": "NAKHANA",
+        "mm": "နခန"
+      },
+      "name": {
+        "en": "NAM KHAM",
+        "mm": "နန့်ခမ်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "zqy8NN6yZS5tp924",
+      "code": "MINEMAW",
+      "short": {
+        "en": "MAMAHTA",
+        "mm": "မမထ"
+      },
+      "name": {
+        "en": "MINE MAW",
+        "mm": "မိုင်းမော"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06521",
+      "district": "Lashio"
+    },
+    {
+      "id": "2d0Kj2a4ZhRnmwlo",
+      "code": "MINEYAUNG",
+      "short": {
+        "en": "MAYATA",
+        "mm": "မယတ"
+      },
+      "name": {
+        "en": "MINE YAUNG",
+        "mm": "မိုင်းယောင်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06263",
+      "district": "Minepyat"
+    },
+    {
+      "id": "YBcxm7JXP86eKVHD",
+      "code": "HOPAN",
+      "short": {
+        "en": "HAPATA",
+        "mm": "ဟပတ"
+      },
+      "name": {
+        "en": "HO PAN",
+        "mm": "ဟိုပန်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06391",
+      "district": "Konelone"
+    },
+    {
+      "id": "HkXF3uhqwdCB2Hc-",
+      "code": "PANLON",
+      "short": {
+        "en": "PALATA",
+        "mm": "ပလတ"
+      },
+      "name": {
+        "en": "PAN LON",
+        "mm": "ပန်းလောင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06393",
+      "district": "Konlon"
+    },
+    {
+      "id": "RODwSIYll3IMW1ot",
+      "code": "PANWINE",
+      "short": {
+        "en": "PAWANA",
+        "mm": "ပဝန"
+      },
+      "name": {
+        "en": "PAN WINE",
+        "mm": "ပန်ဝိုင်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06501",
+      "district": "Lashio"
+    },
+    {
+      "id": "k2fLF3uERdPmEGzB",
+      "code": "KENGTUNG",
+      "short": {
+        "en": "KATANA",
+        "mm": "ကတန"
+      },
+      "name": {
+        "en": "KENG TUNG",
+        "mm": "ကျိုင်းတုံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "Sqt3pTF5ARckJPHS",
+      "code": "MINEKAT",
+      "short": {
+        "en": "MAKHANA",
+        "mm": "မခန"
+      },
+      "name": {
+        "en": "MINE KAT",
+        "mm": "မိုင်းခပ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06471",
+      "district": "Kyaingtong"
+    },
+    {
+      "id": "J4kYY2Is7zc1UE0X",
+      "code": "MINELAR",
+      "short": {
+        "en": "MALANA",
+        "mm": "မလန"
+      },
+      "name": {
+        "en": "MINE LAR",
+        "mm": "မိုင်းလား"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06232",
+      "district": "Kyaingtong"
+    },
+    {
+      "id": "b70YGTl0IGSXlK0H",
+      "code": "HSIPAW",
+      "short": {
+        "en": "THAPANA",
+        "mm": "သပန"
+      },
+      "name": {
+        "en": "HSI PAW",
+        "mm": "သီပေါ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "ra3h1Z2QG3-az8lD",
+      "code": "KYAUKME",
+      "short": {
+        "en": "KAMANA",
+        "mm": "ကမန"
+      },
+      "name": {
+        "en": "KYAUK ME",
+        "mm": "ကျောက်မဲ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06321",
+      "district": "Kyaukme"
+    },
+    {
+      "id": "j1i36EwOuqicUllI",
+      "code": "MABANE",
+      "short": {
+        "en": "MABANA",
+        "mm": "မဘန"
+      },
+      "name": {
+        "en": "MA BANE",
+        "mm": "မဘိန်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "pSlRHT5xmI33LctC",
+      "code": "MINELON",
+      "short": {
+        "en": "MALATA",
+        "mm": "မလတ"
+      },
+      "name": {
+        "en": "MINE LON",
+        "mm": "မိုင်းလုံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "l85EqD3xGZCq01q9",
+      "code": "MINENGAW",
+      "short": {
+        "en": "MANGANA",
+        "mm": "မငန"
+      },
+      "name": {
+        "en": "MINE NGAW",
+        "mm": "မိုင်းငေါ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "ierX9yzC3nDJxnwb",
+      "code": "MOMEIK",
+      "short": {
+        "en": "MAMATA",
+        "mm": "မမတ"
+      },
+      "name": {
+        "en": "MO MEIK",
+        "mm": "မိုးမိတ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "03074",
+      "district": "Mindat"
+    },
+    {
+      "id": "lzbJIXlZ1qTOz-O4",
+      "code": "NAMTU",
+      "short": {
+        "en": "NAMATA",
+        "mm": "နမတ"
+      },
+      "name": {
+        "en": "NA M TU",
+        "mm": "နမ္မတူ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "4rgnjqkaCMYRGt_-",
+      "code": "NAUNGKHIO",
+      "short": {
+        "en": "NAKHATA",
+        "mm": "နခတ"
+      },
+      "name": {
+        "en": "NAUNG KHIO",
+        "mm": "နောင်ချို"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "nDtuyKgcOizNAEGv",
+      "code": "LASHIO",
+      "short": {
+        "en": "LAYANA",
+        "mm": "လရန"
+      },
+      "name": {
+        "en": "LASHIO",
+        "mm": "လားရှိုး"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06301",
+      "district": "Lashio"
+    },
+    {
+      "id": "Ece5M61rFgFKKXCf",
+      "code": "TANTYAN",
+      "short": {
+        "en": "TAYANA",
+        "mm": "တယန"
+      },
+      "name": {
+        "en": "TANTYAN",
+        "mm": "တန့်ယန်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06431",
+      "district": "Lashio"
+    },
+    {
+      "id": "QHtZNDsv8GoGNlxF",
+      "code": "THEINNI",
+      "short": {
+        "en": "THANANA",
+        "mm": "သနန"
+      },
+      "name": {
+        "en": "THEIN NI",
+        "mm": "သိန္နီ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": "Lashio"
+    },
+    {
+      "id": "kNzKQzngDxzc_g4n",
+      "code": "KONGYAN",
+      "short": {
+        "en": "KAKANA",
+        "mm": "ကကန"
+      },
+      "name": {
+        "en": "KON GYAN",
+        "mm": "ကွမ်းယန်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "dednit0-iOqBoGwN",
+      "code": "LINKHE",
+      "short": {
+        "en": "LAKHATA",
+        "mm": "လခတ"
+      },
+      "name": {
+        "en": "LIN KHE",
+        "mm": "လင်ခေး"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06191",
+      "district": "Linkhe"
+    },
+    {
+      "id": "kcpYBbyP4ahFBikz",
+      "code": "MINEPAN",
+      "short": {
+        "en": "MAPANA",
+        "mm": "မပန"
+      },
+      "name": {
+        "en": "MINEPAN",
+        "mm": "မိုင်းပန်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06201",
+      "district": "Linkhe"
+    },
+    {
+      "id": "N9hZ4B1JjHnHU3NM",
+      "code": "MONE",
+      "short": {
+        "en": "MANANA",
+        "mm": "မနန"
+      },
+      "name": {
+        "en": "MONE",
+        "mm": "မိုးနဲ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "08143",
+      "district": "Taungoo"
+    },
+    {
+      "id": "B1SVY8koTJ_VlCEU",
+      "code": "KUNHING",
+      "short": {
+        "en": "KAHANA",
+        "mm": "ကဟန"
+      },
+      "name": {
+        "en": "KUN HING",
+        "mm": "ကွန်ဟိန်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "gjt-eUneXWMpIgQc",
+      "code": "LOILIN",
+      "short": {
+        "en": "LALANA",
+        "mm": "လလန"
+      },
+      "name": {
+        "en": "LOILIN",
+        "mm": "လွိုင်လင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06111",
+      "district": "Loilin"
+    },
+    {
+      "id": "aFcAdCmjZ-bKvmVz",
+      "code": "MINENAUNG",
+      "short": {
+        "en": "MANATA",
+        "mm": "မနန"
+      },
+      "name": {
+        "en": "MINE NAUNG",
+        "mm": "မိုင်းနောင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06152",
+      "district": "Loilin"
+    },
+    {
+      "id": "88OdT1frFeY7_ZUA",
+      "code": "MANKHAN",
+      "short": {
+        "en": "MAKHANA",
+        "mm": "မခန"
+      },
+      "name": {
+        "en": "MAN KHAN",
+        "mm": "မန်းခမ်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "U0_ur1lIzWjV2ADv",
+      "code": "MANPHANT",
+      "short": {
+        "en": "MAPHATA",
+        "mm": "မဖတ"
+      },
+      "name": {
+        "en": "MAN PHANT",
+        "mm": "မန်ဖန့်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "lqjtOzS5Z4GJ4pa0",
+      "code": "MONGKAI",
+      "short": {
+        "en": "MAKHANA",
+        "mm": "မခန"
+      },
+      "name": {
+        "en": "MONG KAI",
+        "mm": "မောက်ခိုင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "jpN7zRVJuIl3V541",
+      "code": "NANHSAM-SOUTH",
+      "short": {
+        "en": "NASANA",
+        "mm": "နစန"
+      },
+      "name": {
+        "en": "NANHSAM-SOUTH",
+        "mm": "နမ့်စန်(တောင်)"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "z1kCmRwK-olJAdV6",
+      "code": "MAKMAN",
+      "short": {
+        "en": "MAMANA",
+        "mm": "မမန"
+      },
+      "name": {
+        "en": "MAK MAN",
+        "mm": "မက်မန်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "_tjiuRhWdmL-sXgd",
+      "code": "PANSAN-PANKHAM",
+      "short": {
+        "en": "PASANA",
+        "mm": "ပဆန"
+      },
+      "name": {
+        "en": "PANSAN-PANKHAM",
+        "mm": "ပန်ဆန်း(PanKham)"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "eHqpnYz0-u1E0vTI",
+      "code": "MINEYU",
+      "short": {
+        "en": "-",
+        "mm": "-"
+      },
+      "name": {
+        "en": "MINE YU",
+        "mm": "မိုင်းယု"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06262",
+      "district": "Minepyat"
+    },
+    {
+      "id": "AfESFXWJjB9FH6Ot",
+      "code": "MINEPYIN",
+      "short": {
+        "en": "MAPATA",
+        "mm": "မပတ"
+      },
+      "name": {
+        "en": "MINE PYIN",
+        "mm": "မိုင်းပျင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06461",
+      "district": "Kyaingtong"
+    },
+    {
+      "id": "KEVqGlyQX-V6w8vd",
+      "code": "PONPARKYIN",
+      "short": {
+        "en": "PAPAKA",
+        "mm": "ပပက"
+      },
+      "name": {
+        "en": "PON PAR KYIN",
+        "mm": "ပုံပါကျင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06292",
+      "district": "Minesatt"
+    },
+    {
+      "id": "O3TrQxAaV4sFFEAT",
+      "code": "MANHERO",
+      "short": {
+        "en": "MAHAYA",
+        "mm": "မဟရ"
+      },
+      "name": {
+        "en": "MAN HE RO",
+        "mm": "မဟီရိုး"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06403",
+      "district": "Muse"
+    },
+    {
+      "id": "B388bH0vLz1CVtdj",
+      "code": "MUSE",
+      "short": {
+        "en": "MASATA",
+        "mm": "မဆတ"
+      },
+      "name": {
+        "en": "MUSE",
+        "mm": "မူဆယ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06402",
+      "district": "Muse"
+    },
+    {
+      "id": "laKI-DMGrxAcWtVc",
+      "code": "PANSAI",
+      "short": {
+        "en": "PASATA",
+        "mm": "ပဆတ"
+      },
+      "name": {
+        "en": "PANSAI(KYU KUTE)",
+        "mm": "ပန်ဆိုင်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "aIiMGptnH6-xT3YV",
+      "code": "TAMOENYE",
+      "short": {
+        "en": "TAMANYA",
+        "mm": "တမည"
+      },
+      "name": {
+        "en": "TA MOE NYE",
+        "mm": "တာမိုးညဲ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06371",
+      "district": "Muse"
+    },
+    {
+      "id": "0Xgb-3ZA7UXd5py7",
+      "code": "KENGLAT",
+      "short": {
+        "en": "KALAHTA",
+        "mm": "ကလထ"
+      },
+      "name": {
+        "en": "KENG LAT",
+        "mm": "ကျိုင်းလပ်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "jVEitq7luKsmFbW0",
+      "code": "HOPON",
+      "short": {
+        "en": "HAPANA",
+        "mm": "ဟပန"
+      },
+      "name": {
+        "en": "HO PON",
+        "mm": "ဟိုပုန်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06091",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "UIeRzGItYbDwevv2",
+      "code": "HSIHSENG",
+      "short": {
+        "en": "SASANA",
+        "mm": "ဆဆန"
+      },
+      "name": {
+        "en": "HSI HSENG",
+        "mm": "ဆီဆိုင်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "cKrCIIk-xBHBHm9l",
+      "code": "INDAW-SHAN",
+      "short": {
+        "en": "AHTANA",
+        "mm": "အတန"
+      },
+      "name": {
+        "en": "IN DAW-SHAN",
+        "mm": "အင်းတော်"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "DIX4SD_4SgwVW5dI",
+      "code": "NAUNGTAYAR",
+      "short": {
+        "en": "NATAYA",
+        "mm": "နတရ"
+      },
+      "name": {
+        "en": "NAUNG TA YAR",
+        "mm": "နောင်တရား"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06053",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "pPt0PjH7VcpXEW8V",
+      "code": "NYAUNGSHWE",
+      "short": {
+        "en": "NYAYANA",
+        "mm": "ညရန"
+      },
+      "name": {
+        "en": "NYAUNG SHWE",
+        "mm": "ညောင်ရွှေ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06086",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "cyl1wyyPSjVlUYxj",
+      "code": "PINLAUNG",
+      "short": {
+        "en": "PALATA",
+        "mm": "ပလန"
+      },
+      "name": {
+        "en": "PIN LAUNG",
+        "mm": "ပင်လောင်း"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06051",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "ryEwHwXSMDy_IdxI",
+      "code": "TAUNGGYI",
+      "short": {
+        "en": "TAKANA",
+        "mm": "တကန"
+      },
+      "name": {
+        "en": "TAUNGGYI",
+        "mm": "တောင်ကြီး"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06014",
+      "district": "Taunggyi"
+    },
+    {
+      "id": "o5Prz-0-THjK0Bdi",
+      "code": "YWARNGAN",
+      "short": {
+        "en": "YANGANA",
+        "mm": "ရငန"
+      },
+      "name": {
+        "en": "YWARNGAN",
+        "mm": "ရွာငံ"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": null,
+      "district": "Taunggyi"
+    },
+    {
+      "id": "kIt1DulFzNwO0yGA",
+      "code": "MINESHU",
+      "short": {
+        "en": "MAYANA",
+        "mm": "မရန"
+      },
+      "name": {
+        "en": "MINESHU",
+        "mm": "မိုင်းရှူး"
+      },
+      "stateId": "DZ1kOrvrt-7LntG4",
+      "stateCode": "13",
+      "postalCode": "06141",
+      "district": "Loilin"
+    },
+    {
+      "id": "Ab7FuIcZfrXWiHGd",
+      "code": "KYONPYAW",
+      "short": {
+        "en": "KAPANA",
+        "mm": "ကပန"
+      },
+      "name": {
+        "en": "KYON PYAW",
+        "mm": "ကျုံပျော်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10091",
+      "district": "Pathein"
+    },
+    {
+      "id": "K0N4SNKcHRXDqv3W",
+      "code": "PHYAPON",
+      "short": {
+        "en": "PHAPANA",
+        "mm": "ဖပန"
+      },
+      "name": {
+        "en": "PHYA PON",
+        "mm": "ဖျာပုံ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10251",
+      "district": "Pyapon"
+    },
+    {
+      "id": "UbriNmK5yZsZbYQ4",
+      "code": "PANTANAW",
+      "short": {
+        "en": "PATANA",
+        "mm": "ပတန"
+      },
+      "name": {
+        "en": "PAN TA NAW",
+        "mm": "ပန်းတနော်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10171",
+      "district": "Maubin"
+    },
+    {
+      "id": "ZQe21g4ADRB6MaKe",
+      "code": "EINME",
+      "short": {
+        "en": "AHMANA",
+        "mm": "အမန"
+      },
+      "name": {
+        "en": "EIN ME",
+        "mm": "အိမ်မဲ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10191",
+      "district": "Myaungmya"
+    },
+    {
+      "id": "wvzMEKQOxq50JY1l",
+      "code": "MYANAUNG",
+      "short": {
+        "en": "MAAHNA",
+        "mm": "မအန"
+      },
+      "name": {
+        "en": "MYAN AUNG",
+        "mm": "မြန်အောင်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10042",
+      "district": "Hinthada"
+    },
+    {
+      "id": "7JX4ZccciV6zDWkR",
+      "code": "NYAUNGTONE",
+      "short": {
+        "en": "NYATANA",
+        "mm": "ညတန"
+      },
+      "name": {
+        "en": "NYAUNG TONE",
+        "mm": "ညောင်တုန်း"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10161",
+      "district": "Maubin"
+    },
+    {
+      "id": "a8wWxb40G5ZDA-VC",
+      "code": "HAINGGYIKYUN",
+      "short": {
+        "en": "HAKAKA",
+        "mm": "ဟကက"
+      },
+      "name": {
+        "en": "HAING GYI KYUN",
+        "mm": "ဟိုင်းကြီးကျွန်း"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "107601",
+      "district": "Pathein"
+    },
+    {
+      "id": "rH7Ghi6WK5zoqttp",
+      "code": "SHWETHAUNGYAN",
+      "short": {
+        "en": "YATHAYA",
+        "mm": "ယသရ"
+      },
+      "name": {
+        "en": "SHWE THAUNG YAN",
+        "mm": "ရွှေသောင်ရံ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10282",
+      "district": "Pathein"
+    },
+    {
+      "id": "WmmhEU1dRkL3pQxt",
+      "code": "NGATHAINGCHAUNG",
+      "short": {
+        "en": "NGATHAKHA",
+        "mm": "ငသခ"
+      },
+      "name": {
+        "en": "NGA THAING CHAUNG",
+        "mm": "ငါးသိုင်းချောင်း"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10291",
+      "district": "Pathein"
+    },
+    {
+      "id": "aDlGvhYqduAkruBx",
+      "code": "PATHEIN-EAST",
+      "short": {
+        "en": "PATHAYA",
+        "mm": "ပသရ"
+      },
+      "name": {
+        "en": "PATHEIN-EAST",
+        "mm": "ပုသိမ် (ရှေ)"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "aIaA4eYkpE1ecbGP",
+      "code": "THABAUNG",
+      "short": {
+        "en": "THAPANA",
+        "mm": "သပန"
+      },
+      "name": {
+        "en": "THA BAUNG",
+        "mm": "သာပေါင်း"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10111",
+      "district": "Pathein"
+    },
+    {
+      "id": "iz2PhBsjJYP6xaHv",
+      "code": "BOGALE",
+      "short": {
+        "en": "BAKALA",
+        "mm": "ဘကလ"
+      },
+      "name": {
+        "en": "BO GA LE",
+        "mm": "ဘိုကလေး"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10232",
+      "district": "Pyapon"
+    },
+    {
+      "id": "AQH3JPy1jpI9TGmf",
+      "code": "DANUBYU",
+      "short": {
+        "en": "DANAPHA",
+        "mm": "ဓနဖ"
+      },
+      "name": {
+        "en": "DA NU BYU",
+        "mm": "ဓနုဖြူ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10151",
+      "district": "Maubin"
+    },
+    {
+      "id": "D70HlmKCJbNik2t-",
+      "code": "PYINSALU",
+      "short": {
+        "en": "PASALA",
+        "mm": "ပစလ"
+      },
+      "name": {
+        "en": "PYIN SA LU",
+        "mm": "ပြင်စလူ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10331",
+      "district": "Labutta"
+    },
+    {
+      "id": "NwuSiiRdMeQBNoSd",
+      "code": "LAYMYETHNA",
+      "short": {
+        "en": "LAMANA",
+        "mm": "လမန"
+      },
+      "name": {
+        "en": "LAY MYETH NA",
+        "mm": "လေးမျက်နှာ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "08222",
+      "district": "Tharrawaddy"
+    },
+    {
+      "id": "BNwktzJgqsYgE-EX",
+      "code": "INGAPU",
+      "short": {
+        "en": "AHGAPA",
+        "mm": "အဂပ"
+      },
+      "name": {
+        "en": "IN GA PU",
+        "mm": "အင်္ဂပူ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10051",
+      "district": "Hinthada"
+    },
+    {
+      "id": "jTbmp8sDBAaWcPK8",
+      "code": "NGAYOKAUNG",
+      "short": {
+        "en": "NGAYAKA",
+        "mm": "ငရက"
+      },
+      "name": {
+        "en": "NGAYOKAUNG",
+        "mm": "ငရုတ်ကောင်း"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10301",
+      "district": "Pathein"
+    },
+    {
+      "id": "64Zu79fXerHjTxd3",
+      "code": "NGWEHSAUNG",
+      "short": {
+        "en": "NGASANA",
+        "mm": "ငဆန"
+      },
+      "name": {
+        "en": "NGWE HSAUNG",
+        "mm": "ငွေဆောင်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10271",
+      "district": "Pathein"
+    },
+    {
+      "id": "qkzTGwQT2rfAQQOD",
+      "code": "LABUTTA",
+      "short": {
+        "en": "LAPATA",
+        "mm": "လပတ"
+      },
+      "name": {
+        "en": "LA BUT TA",
+        "mm": "လပတ္တာ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10122",
+      "district": "Labutta"
+    },
+    {
+      "id": "KPXskF8LqhGQyuKS",
+      "code": "MYAUNGMYA",
+      "short": {
+        "en": "MAMANA",
+        "mm": "မမန"
+      },
+      "name": {
+        "en": "MYAUNGMYA",
+        "mm": "မြောင်းမြ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10211",
+      "district": "Myaungmya"
+    },
+    {
+      "id": "HOTw3HGTLPJTjqFF",
+      "code": "PATHEIN",
+      "short": {
+        "en": "PATHAAH",
+        "mm": "ပသအ"
+      },
+      "name": {
+        "en": "PA THEIN",
+        "mm": "ပုသိမ်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10011",
+      "district": "Pathein"
+    },
+    {
+      "id": "WjP5qEs2AU2jA0CZ",
+      "code": "PA THEIN",
+      "short": {
+        "en": "PATHANA",
+        "mm": "ပသန"
+      },
+      "name": {
+        "en": "PATHEIN (WEST)",
+        "mm": "ပုသိမ် (နောက်)"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10011",
+      "district": "Pathein"
+    },
+    {
+      "id": "7sqTxJkg-TkWPFLs",
+      "code": "MAWLAMYAINGGYUN",
+      "short": {
+        "en": "MAMAKA",
+        "mm": "မမက"
+      },
+      "name": {
+        "en": "MAWLAMYAINGGYUN",
+        "mm": "မော်လမြိုင်ကျွန်း"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10221",
+      "district": "Labutta"
+    },
+    {
+      "id": "swkP4WRf5tybANvo",
+      "code": "KYANGIN",
+      "short": {
+        "en": "KAKHANA",
+        "mm": "ကခန"
+      },
+      "name": {
+        "en": "KYANGIN",
+        "mm": "ကြံခင်း"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10032",
+      "district": "Hinthada"
+    },
+    {
+      "id": "LLpvarQOCUThEvfM",
+      "code": "KANGYIDAUNT",
+      "short": {
+        "en": "KAKAHTA",
+        "mm": "ကကထ"
+      },
+      "name": {
+        "en": "KAN GYI DAUNT",
+        "mm": "ကန်ကြီးထောင့်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10021",
+      "district": "Pathein"
+    },
+    {
+      "id": "TUcHyp5hpaPKO1gt",
+      "code": "KYAIKLATT",
+      "short": {
+        "en": "KALANA",
+        "mm": "ကလန"
+      },
+      "name": {
+        "en": "KYAIK LATT",
+        "mm": "ကျိုက်လတ်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10241",
+      "district": "Pyapon"
+    },
+    {
+      "id": "ZBs1WX30e9AKSsKJ",
+      "code": "NGAPUTAW",
+      "short": {
+        "en": "NGAPATA",
+        "mm": "ငပတ"
+      },
+      "name": {
+        "en": "NGA PU TAW",
+        "mm": "ငပုတော"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10131",
+      "district": "Pathein"
+    },
+    {
+      "id": "GTsWmvoHBV1h85ze",
+      "code": "MAUBIN",
+      "short": {
+        "en": "MAAHPA",
+        "mm": "မအပ"
+      },
+      "name": {
+        "en": "MA U BIN",
+        "mm": "မအူပင်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10181",
+      "district": "Maubin"
+    },
+    {
+      "id": "0Xv6T6JQvZ-4b2FO",
+      "code": "AHMAR",
+      "short": {
+        "en": "AHMATA",
+        "mm": "အမတ"
+      },
+      "name": {
+        "en": "AHMAR",
+        "mm": "အမာ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10311",
+      "district": "Pyapon"
+    },
+    {
+      "id": "-K5Ef1xBBAT-Bd2w",
+      "code": "HINTHADA",
+      "short": {
+        "en": "HATHATA",
+        "mm": "ဟသတ"
+      },
+      "name": {
+        "en": "HIN THA DA",
+        "mm": "ဟင်္သာတ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10061",
+      "district": "Hinthada"
+    },
+    {
+      "id": "g2Dh7U-i282vKhhP",
+      "code": "YEKYI",
+      "short": {
+        "en": "YAKANA",
+        "mm": "ရကန"
+      },
+      "name": {
+        "en": "YE KYI",
+        "mm": "ရေကြည်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10081",
+      "district": "Pathein"
+    },
+    {
+      "id": "a_ok3tGqSgyQkgNS",
+      "code": "KYAUNGGONE",
+      "short": {
+        "en": "KAKANA",
+        "mm": "ကကန"
+      },
+      "name": {
+        "en": "KYAUNG GONE",
+        "mm": "ကျောင်းကုန်း"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10101",
+      "district": "Pathein"
+    },
+    {
+      "id": "hGg3Ri7H8khZhbFA",
+      "code": "DEDAYE",
+      "short": {
+        "en": "DADAYA",
+        "mm": "ဒဒရ"
+      },
+      "name": {
+        "en": "DE DA YE",
+        "mm": "ဒေးဒရဲ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10261",
+      "district": "Pyapon"
+    },
+    {
+      "id": "Ak5C9FdDqxK6mgcO",
+      "code": "WAKEMA",
+      "short": {
+        "en": "WAKHAMA",
+        "mm": "ဝခမ"
+      },
+      "name": {
+        "en": "WA KE MA",
+        "mm": "ဝါးခယ်မ"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10201",
+      "district": "Myaungmya"
+    },
+    {
+      "id": "TAXjsCe80RKje4sL",
+      "code": "ZALUN",
+      "short": {
+        "en": "ZALANA",
+        "mm": "ဇလန"
+      },
+      "name": {
+        "en": "ZA LUN",
+        "mm": "ဇလွန်"
+      },
+      "stateId": "tY793VdREy9r5xsl",
+      "stateCode": "14",
+      "postalCode": "10141",
+      "district": "Hinthada"
+    },
+    {
+      "id": "XwJyeh9PqfqFUWph",
+      "code": "ZABUTHIRI",
+      "short": {
+        "en": "ZABATHA",
+        "mm": "ဇဗသ"
+      },
+      "name": {
+        "en": "ZA BU THIRI",
+        "mm": "ဇမ္ဗူသီရိ"
+      },
+      "stateId": "sH0ybsmxNuxmeOT_",
+      "stateCode": "9*",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "eemLfSEjOBUT4vDW",
+      "code": "OTTARATHIRI",
+      "short": {
+        "en": "AUTATHA",
+        "mm": "ဥတသ"
+      },
+      "name": {
+        "en": "OT TA RA THIRI",
+        "mm": "ဥတ္တရသီရိ"
+      },
+      "stateId": "sH0ybsmxNuxmeOT_",
+      "stateCode": "9*",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "SJ7t8nydl2BLXCcj",
+      "code": "POBBATHIRI",
+      "short": {
+        "en": "PABATHA",
+        "mm": "ပဗသ"
+      },
+      "name": {
+        "en": "POB BA THIRI",
+        "mm": "ပုဗ္ဗသီရိ"
+      },
+      "stateId": "sH0ybsmxNuxmeOT_",
+      "stateCode": "9*",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "EumzaX6wjlH3WIOw",
+      "code": "TATKON",
+      "short": {
+        "en": "TAKANA",
+        "mm": "တကန"
+      },
+      "name": {
+        "en": "TATKON",
+        "mm": "တပ်ကုန်း"
+      },
+      "stateId": "sH0ybsmxNuxmeOT_",
+      "stateCode": "9*",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "iX6euzn6oYZnxucC",
+      "code": "DEKKHINATHIRI",
+      "short": {
+        "en": "DAKHATHA",
+        "mm": "ဒခသ"
+      },
+      "name": {
+        "en": "DEK KHI NA THIRI",
+        "mm": "ဒက္ခိဏသီရိ"
+      },
+      "stateId": "sH0ybsmxNuxmeOT_",
+      "stateCode": "9*",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "UcyG-TtduU0p1TNY",
+      "code": "LEWE",
+      "short": {
+        "en": "LAWANA",
+        "mm": "လဝန"
+      },
+      "name": {
+        "en": "LEWE",
+        "mm": "လယ်ဝေး"
+      },
+      "stateId": "sH0ybsmxNuxmeOT_",
+      "stateCode": "9*",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "mhOAOvw2SqGAycTf",
+      "code": "PYINMANA",
+      "short": {
+        "en": "PAMANA",
+        "mm": "ပမန"
+      },
+      "name": {
+        "en": "PYIN MA NA",
+        "mm": "ပျဉ်းမနား"
+      },
+      "stateId": "sH0ybsmxNuxmeOT_",
+      "stateCode": "9*",
+      "postalCode": null,
+      "district": null
+    },
+    {
+      "id": "AEdvbbm5rI4jOAoi",
+      "code": "ZEYARTHIRI",
+      "short": {
+        "en": "ZAYATHA",
+        "mm": "ဇယသ"
+      },
+      "name": {
+        "en": "ZE YAR THIRI",
+        "mm": "ဇေယျာသီရိ"
+      },
+      "stateId": "sH0ybsmxNuxmeOT_",
+      "stateCode": "9*",
+      "postalCode": "10085",
+      "district": "Pathein"
+    }
+  ]
+}
