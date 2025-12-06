@@ -65,10 +65,6 @@ npm run dev</code></pre>
             </li>
             <li>
               <span class="tag tag--green">GET</span>
-              <code>/v1/states/:stateId/townships</code>
-            </li>
-            <li>
-              <span class="tag tag--green">GET</span>
               <code>/v1/states/code/:code</code>
             </li>
             <li>
@@ -152,6 +148,147 @@ npm run dev</code></pre>
           </p>
           <div class="result-box" id="result" hidden>
             <pre><code id="response"></code></pre>
+          </div>
+        </section>
+
+        <section class="card card--playground" id="get-playground">
+          <h2>GET Endpoint Playground</h2>
+          <p>
+            Trigger each read-only route without leaving the docs. Provide any
+            required parameter and compare live responses side by side.
+          </p>
+
+          <div class="endpoint-collection">
+            <div class="endpoint-playground" data-template="/v1/nrc-types">
+              <div class="endpoint-meta">
+                <span class="tag tag--green">GET</span>
+                <code>/v1/nrc-types</code>
+              </div>
+              <p class="endpoint-copy">
+                List every NRC type with localized names.
+              </p>
+              <form class="endpoint-form">
+                <button type="submit">Send request</button>
+              </form>
+              
+              <div class="result-box endpoint-result" hidden>
+                <pre><code></code></pre>
+              </div>
+            </div>
+
+            <div class="endpoint-playground" data-template="/v1/states">
+              <div class="endpoint-meta">
+                <span class="tag tag--green">GET</span>
+                <code>/v1/states</code>
+              </div>
+              <p class="endpoint-copy">Explore all states and regions.</p>
+              <form class="endpoint-form">
+                <button type="submit">Send request</button>
+              </form>
+              
+              <div class="result-box endpoint-result" hidden>
+                <pre><code></code></pre>
+              </div>
+            </div>
+
+            <div class="endpoint-playground" data-template="/v1/townships">
+              <div class="endpoint-meta">
+                <span class="tag tag--green">GET</span>
+                <code>/v1/townships</code>
+              </div>
+              <p class="endpoint-copy">Inspect the full township catalog.</p>
+              <form class="endpoint-form">
+                <button type="submit">Send request</button>
+              </form>
+              
+              <div class="result-box endpoint-result" hidden>
+                <pre><code></code></pre>
+              </div>
+            </div>
+
+            <div
+              class="endpoint-playground"
+              data-template="/v1/states/code/:code"
+            >
+              <div class="endpoint-meta">
+                <span class="tag tag--green">GET</span>
+                <code>/v1/states/code/:code</code>
+              </div>
+              <p class="endpoint-copy">Find a state by its uppercase code.</p>
+              <form class="endpoint-form">
+                <label for="state-code-input">State code</label>
+                <input
+                  id="state-code-input"
+                  name="code"
+                  type="text"
+                  placeholder="AYEYAWADY"
+                  data-transform="upper"
+                  required
+                />
+                <button type="submit">Send request</button>
+              </form>
+              
+              <div class="result-box endpoint-result" hidden>
+                <pre><code></code></pre>
+              </div>
+            </div>
+
+            <div
+              class="endpoint-playground"
+              data-template="/v1/townships/code/:code"
+            >
+              <div class="endpoint-meta">
+                <span class="tag tag--green">GET</span>
+                <code>/v1/townships/code/:code</code>
+              </div>
+              <p class="endpoint-copy">
+                Look up a township by its administrative code.
+              </p>
+              <form class="endpoint-form">
+                <label for="township-code-input">Township code</label>
+                <input
+                  id="township-code-input"
+                  name="code"
+                  type="text"
+                  placeholder="MAUBIN"
+                  data-transform="upper"
+                  required
+                />
+                <button type="submit">Send request</button>
+              </form>
+              
+              <div class="result-box endpoint-result" hidden>
+                <pre><code></code></pre>
+              </div>
+            </div>
+
+            <div
+              class="endpoint-playground"
+              data-template="/v1/states/number/:number/townships"
+            >
+              <div class="endpoint-meta">
+                <span class="tag tag--green">GET</span>
+                <code>/v1/states/number/:number/townships</code>
+              </div>
+              <p class="endpoint-copy">
+                Fetch townships for a numeric state code.
+              </p>
+              <form class="endpoint-form">
+                <label for="state-number-input">State number</label>
+                <input
+                  id="state-number-input"
+                  name="number"
+                  type="text"
+                  placeholder="14"
+                  required
+                />
+                <button type="submit">Send request</button>
+              </form>
+              
+              <div class="result-box endpoint-result" hidden>
+                <pre><code></code></pre>
+              </div>
+            </div>
           </div>
         </section>
       </main>

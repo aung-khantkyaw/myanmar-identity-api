@@ -105,6 +105,80 @@ function showResult(message, type, data = null) {
   }
 }
 
+function initGetPlayground() {
+  const panels = document.querySelectorAll(".endpoint-playground");
+
+  const formatStatus = (el, message, state = "") => {
+    if (!el) return;
+    el.textContent = message;
+    el.dataset.state = state;
+  };
+
+  panels.forEach((panel) => {
+    const template = panel.dataset.template;
+    const form = panel.querySelector("form");
+    const statusNode = panel.querySelector(".endpoint-status");
+    const resultWrapper = panel.querySelector(".endpoint-result");
+    const codeNode = resultWrapper?.querySelector("code");
+
+    if (!form || !template) return;
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+
+      let finalPath = template;
+      const formData = new FormData(form);
+
+      formData.forEach((value, key) => {
+        const input = form.querySelector(`[name="${key}"]`);
+        let processed = value.trim();
+        if (input?.dataset.transform === "upper") {
+          processed = processed.toUpperCase();
+          input.value = processed;
+        }
+        finalPath = finalPath.replace(`:${key}`, encodeURIComponent(processed));
+      });
+
+      if (finalPath.includes(":")) {
+        formatStatus(
+          statusNode,
+          "Please supply all required parameters.",
+          "error"
+        );
+        if (resultWrapper) resultWrapper.hidden = true;
+        return;
+      }
+
+      formatStatus(statusNode, `Calling ${finalPath}…`, "loading");
+      if (resultWrapper) resultWrapper.hidden = true;
+
+      try {
+        const response = await fetch(finalPath);
+        const data = await response.json().catch(() => null);
+
+        if (!response.ok) {
+          throw new Error(
+            data?.error || `Request failed with ${response.status}`
+          );
+        }
+
+        formatStatus(statusNode, "Success", "success");
+        if (codeNode) {
+          codeNode.textContent = JSON.stringify(data, null, 2);
+          if (resultWrapper) resultWrapper.hidden = false;
+        }
+      } catch (error) {
+        formatStatus(
+          statusNode,
+          error.message || "Unable to fetch endpoint",
+          "error"
+        );
+        if (resultWrapper) resultWrapper.hidden = true;
+      }
+    });
+  });
+}
+
 // Event listeners
 document
   .getElementById("state-select")
@@ -185,3 +259,4 @@ document.getElementById("test-form").addEventListener("submit", async (e) => {
 
 // Load data on page load
 loadData();
+initGetPlayground();

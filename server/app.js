@@ -44,14 +44,6 @@ app.get("/v1/townships", (req, res) => {
   res.json(nrcData.nrcTownships);
 });
 
-// Get townships by state
-app.get("/v1/states/:stateId/townships", (req, res) => {
-  const townships = nrcData.nrcTownships.filter(
-    (t) => t.stateId === req.params.stateId
-  );
-  res.json(townships);
-});
-
 // Get state by code
 app.get("/v1/states/code/:code", (req, res) => {
   const state = nrcData.nrcStates.find(
