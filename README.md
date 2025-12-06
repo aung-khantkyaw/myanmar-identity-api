@@ -32,18 +32,19 @@ myanmar-identity-api/
 
 ## API Endpoints
 
-- `GET /api/nrc-types` - Get all NRC types
-- `GET /api/states` - Get all states
-- `GET /api/townships` - Get all townships
-- `GET /api/states/:stateId/townships` - Get townships by state ID
-- `GET /api/states/number/:number/townships` - Get townships by state number
-- `GET /api/states/code/:code` - Get state by code
-- `GET /api/townships/code/:code` - Get township by code
-- `POST /api/nrc/parse` - Parse and validate NRC format
+- `GET /v1/nrc-types` - Get all NRC types
+- `GET /v1/states` - Get all states
+- `GET /v1/townships` - Get all townships
+- `GET /v1/states/:stateId/townships` - Get townships by state ID
+- `GET /v1/states/number/:number/townships` - Get townships by state number
+- `GET /v1/states/code/:code` - Get state by code
+- `GET /v1/townships/code/:code` - Get township by code
+- `POST /v1/nrc/parse` - Parse and validate NRC format
 
 ## NRC Format
 
 Format: `14/MaAPa(C)123456`
+
 - `14` - State/Region number (1-14)
 - `MaAPa` - Township short code
 - `C` - NRC type (N, E, P, T, Y, S)
