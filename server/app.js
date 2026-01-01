@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require("cors");
 const fs = require("fs");
 const path = require("path");
 
@@ -26,6 +27,7 @@ const EN_TO_MM_DIGITS = {
 const toMyanmarDigits = (value = "") =>
   String(value).replace(/\d/g, (digit) => EN_TO_MM_DIGITS[digit] || digit);
 
+app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, "../public")));
 
